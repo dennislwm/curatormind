@@ -14,5 +14,6 @@ title: Hypothesis
 #### A minimum lovable product (MLP) consists of the first two hypotheses:
 ##### Non-existent lovable feature (IT)
 ##### Existent lovable feature (CT)
+### 3. Don't significantly increase complexity
 ###
 ##
