@@ -8,6 +8,7 @@
 #### Don't use categories; use tags
 #### Use your own voice to capture thoughts; your own voice commits
 #### Create a backlink using [[Nov 23rd, 2020]] annotation
+### Logsec
 ###
 ## [[Hypothesis]]
 ##
