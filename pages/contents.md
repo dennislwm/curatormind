@@ -5,7 +5,7 @@
 #### Pivot away to another topic.
 ### Knowledge management
 #### Set links between notes; search alone is not enough
-#### Use tags instead of categories
+#### Don't use categories; use tags
 ####
 ###
 ##
