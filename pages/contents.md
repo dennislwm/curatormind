@@ -10,7 +10,7 @@
 #### Create a backlink using [[Nov 23rd, 2020]] annotation
 ### Logsec
 #### Create a new markdown file by typing the name of file in the Search box, leaving out any brackets or .md extension
-####
+#### Daily journals are stored as markdown files under _journals_ folder.
 ###
 ## [[Hypothesis]]
 ##
