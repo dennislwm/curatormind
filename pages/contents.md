@@ -9,6 +9,8 @@
 #### Use your own voice to capture thoughts; your own voice commits
 #### Create a backlink using [[Nov 23rd, 2020]] annotation
 ### Logsec
+#### Create a new markdown file by typing the name of file in the Search box, leaving out any brackets or .md extension
+####
 ###
 ## [[Hypothesis]]
 ##
