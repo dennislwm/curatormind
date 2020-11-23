@@ -16,5 +16,7 @@ title: Hypothesis
 ##### Existent lovable feature (CT)
 ### 3. Don't significantly increase complexity
 #### We need to ensure that complexity does not increase significantly in proportion to the reward.
+##### Existent bloat (CF)
+##### Non-existent bloat (IF)
 ###
 ##
