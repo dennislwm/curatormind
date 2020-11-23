@@ -18,5 +18,4 @@ title: Hypothesis
 #### We need to ensure that complexity does not increase significantly in proportion to the reward.
 ##### Existent bloat (CF)
 ##### Non-existent bloat (IF)
-###
 ##
