@@ -11,6 +11,8 @@
 ### Logsec
 #### Create a new file by typing the name of file in the Search box, leaving out any brackets or extension. This creates a markdown file under _pages_ folder.
 #### Daily journals are stored as markdown files under _journals_ folder.
+#### Create a tag by using #tag.
+####
 ###
 ## [[Hypothesis]]
 ##
