@@ -11,6 +11,6 @@ title: Hypothesis
 ##### Correct true (CT)
 ##### Correct false (CF)
 ##### Incorrect false (IF)
-####
+#### A minimum lovable product (MLP) consists of the first two hypotheses:
 ###
 ##
