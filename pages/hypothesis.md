@@ -15,5 +15,6 @@ title: Hypothesis
 ##### Non-existent lovable feature (IT)
 ##### Existent lovable feature (CT)
 ### 3. Don't significantly increase complexity
+#### We need to ensure that complexity does not increase significantly in proportion to the reward.
 ###
 ##
