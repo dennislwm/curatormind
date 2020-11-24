@@ -37,4 +37,12 @@ title: Hypothesis
 ####
 ### Host lots of tiny apps for as cheaply as possible
 #### [How To Set Up CouchDB with ElasticSearch on an Ubuntu 13.10 VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-couchdb-with-elasticsearch-on-an-ubuntu-13-10-vps)
-####
+#### [How to host lots of half-baked tiny apps for as cheaply as possible](https://dev.to/pcraig3/google-cloud-run-the-best-host-platform-for-dynamic-apps-4ma6)
+[Connecting WordPress to Amazon RDS using Terraform](https://dev.to/abhivaidya07/connecting-wordpress-to-amazon-rds-using-terraform-15bm)
+[Deploy To Google Cloud Run Using Github Actions](https://towardsdatascience.com/deploy-to-google-cloud-run-using-github-actions-590ecf957af0)
+[Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank](https://archivy.github.io/docker/#with-data-persistence)
+[Build a disposable email using Anvil](https://anvil.works/blog/email-driven-apps?utm_medium=email&utm_campaign=welcome)
+[Six months of Tiny Projects](https://tinyprojects.dev/)
+[Debug your GitHub Actions by using tmate](https://github.com/marketplace/actions/debugging-with-tmate)
+[What I Learned Building Page.REST – From Idea to Paying Customers in 7 Days](https://www.indiehackers.com/@laktek/what-i-learned-building-page-rest-from-idea-to-paying-customers-in-7-days-26f2a554f4)
+#### [SmallWeb](https://smallweb.net/client)
