@@ -36,3 +36,5 @@ title: Hypothesis
 #### [A tool for downloading histortical market data (OHLC) with resolution ranging from tick to daily timeframes](https://github.com/Leo4815162342/dukascopy-tools/tree/master/packages/dukascopy-cli)
 ####
 ### Host lots of tiny apps for as cheaply as possible
+#### [How To Set Up CouchDB with ElasticSearch on an Ubuntu 13.10 VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-couchdb-with-elasticsearch-on-an-ubuntu-13-10-vps)
+####
