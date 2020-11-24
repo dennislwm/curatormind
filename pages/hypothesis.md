@@ -48,3 +48,7 @@ title: Hypothesis
 #### [SmallWeb](https://smallweb.net/client)
 #### [Free Bible API](https://api.biblia.com/v1/RegisteredApplications) but without [The Revised Standard Version Catholic Edition (RSVCE)](https://biblia.com/bible/rsvce/john/2/19-20)
 ####
+## Existent lovable feature #ct
+## Existent bloat #cf
+## Non-existent bloat #if
+##
