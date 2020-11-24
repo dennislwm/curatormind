@@ -34,4 +34,5 @@ title: Hypothesis
 #### [Unit Testing Your Web Scraper](https://dev.to/albertulysses/unit-testing-your-web-scraper-1aha)
 #### [Python script for parsing descriptive data for ETFs(Exhange Traded Funds) from etfdb.com](https://github.com/olzhasar/etfscraper)
 #### [A tool for downloading histortical market data (OHLC) with resolution ranging from tick to daily timeframes](https://github.com/Leo4815162342/dukascopy-tools/tree/master/packages/dukascopy-cli)
+#### [Javascript to Python Translator](https://github.com/PiotrDabkowski/Js2Py) and [Javascript API for Etfdb.com](https://github.com/janlukasschroeder/etfdb-api) [[Nov 24th, 2020]]
 ####
