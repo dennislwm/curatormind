@@ -30,7 +30,7 @@ title: Hypothesis
 [List of SGX symbols](https://finnhub.io/api/v1/stock/symbol?exchange=SI)
 [List of US symbols](https://finnhub.io/api/v1/stock/symbol?exchange=US)
 [List of exchanges](https://docs.google.com/spreadsheets/d/1I3pBxjfXB056-g_JYf_6o3Rns3BV2kMGG1nCatb91ls/edit#gid=0)
-[Tiingo API Postman documenter](https://documenter.getpostman.com/view/8994004/TVenfog8)
+#### [Tiingo API Postman documenter](https://documenter.getpostman.com/view/8994004/TVenfog8)
 [Tiingo Python](https://github.com/hydrosquall/tiingo-python)
 [Tiingo datasource from pandas-datareader](https://github.com/pydata/pandas-datareader)
 [Finhubb Stock API](https://finnhub.io/)
