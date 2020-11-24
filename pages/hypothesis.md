@@ -19,3 +19,4 @@ title: Hypothesis
 ##### Existent bloat (CF)
 ##### Non-existent bloat (IF)
 ## Non-existent lovable feature #it
+### A strategy that can generate significant alpha to beat buy-and-hold STI ETF
