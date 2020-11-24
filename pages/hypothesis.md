@@ -25,7 +25,6 @@ title: Hypothesis
 #### [Financials as Reported 2010-2020 - SEC Filings](https://www.kaggle.com/finnhub/reported-financials)
 [S&P 500 futures tick data (SP)](https://www.kaggle.com/finnhub/sp-500-futures-tick-data-sp)
 #### [SEC Filings 1994-2020](https://www.kaggle.com/finnhub/sec-filings)
-#### [Finnhub.io Free Tier](https://documenter.getpostman.com/view/8994004/TVep8TBe)
 #### [The World's Economic Database](https://db.nomics.world/)
 #### [List of ASX symbols](https://finnhub.io/api/v1/stock/symbol?exchange=AX)
 [List of SGX symbols](https://finnhub.io/api/v1/stock/symbol?exchange=SI)
