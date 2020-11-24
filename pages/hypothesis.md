@@ -46,4 +46,5 @@ title: Hypothesis
 [Debug your GitHub Actions by using tmate](https://github.com/marketplace/actions/debugging-with-tmate)
 [What I Learned Building Page.REST – From Idea to Paying Customers in 7 Days](https://www.indiehackers.com/@laktek/what-i-learned-building-page-rest-from-idea-to-paying-customers-in-7-days-26f2a554f4)
 #### [SmallWeb](https://smallweb.net/client)
+#### [Free Bible API] but without [The Revised Standard Version Catholic Edition (RSVCE)](https://biblia.com/bible/rsvce/john/2/19-20)
 ####
