@@ -33,6 +33,7 @@ title: Hypothesis
 #### [SCRAPING ETF DATA FROM THE WEB AND STICKING IT IN AN SQLITE3 DATABASE](https://pythonforfinance.net/2016/04/11/sqlite-database-python-web-scrape)
 #### [Unit Testing Your Web Scraper](https://dev.to/albertulysses/unit-testing-your-web-scraper-1aha)
 #### [Python script for parsing descriptive data for ETFs(Exhange Traded Funds) from etfdb.com](https://github.com/olzhasar/etfscraper)
+#### [Let's Build a Web Scraper with Python & BeautifulSoup4](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4)
 #### [A tool for downloading histortical market data (OHLC) with resolution ranging from tick to daily timeframes](https://github.com/Leo4815162342/dukascopy-tools/tree/master/packages/dukascopy-cli)
 #### [Javascript to Python Translator](https://github.com/PiotrDabkowski/Js2Py) and [Javascript API for Etfdb.com](https://github.com/janlukasschroeder/etfdb-api) [[Nov 24th, 2020]]
 ####
