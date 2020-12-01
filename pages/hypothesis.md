@@ -8,7 +8,7 @@ title: Hypothesis
 ### 2. Rank hypotheses
 #### These are ranked hypotheses in decreasing satisfaction:
 ##### Incorrect true (#IT)
-##### Correct true (CT)
+##### Correct true (#CT)
 ##### Correct false (CF)
 ##### Incorrect false (IF)
 #### A minimum lovable product (MLP) consists of the first two hypotheses:
