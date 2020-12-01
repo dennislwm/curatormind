@@ -16,6 +16,7 @@
 ###
 ## [[Hypothesis]]
 ## Daily journals
+### [[Dec 1st, 2020]]
 ### [[Nov 30th, 2020]]
 ### [[Nov 27th, 2020]]
 ### [[Nov 25th, 2020]]
