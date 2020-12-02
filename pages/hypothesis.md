@@ -53,5 +53,6 @@ title: Hypothesis
 ## Non-existent bloat #if
 ## Overall model error is a function of error due to **bias **plus error due to **variance**. The ideal model _minimizes _error from each.
 ### **Bias** error is high when a model is less complex as it ignores relevant information.
+####
 ### **Variance **error increases as complexity increases.
 #### As an analogy, for a decision tree, at deeper branches, nodes are created from a smaller sample size. Hence, the split at deeper levels increases **variance** error.
