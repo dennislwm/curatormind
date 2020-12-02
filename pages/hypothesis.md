@@ -51,4 +51,4 @@ title: Hypothesis
 ## Existent lovable feature #ct
 ## Existent bloat #cf
 ## Non-existent bloat #if
-##
+## Overall model error is a function of error due to bias plus error due to variance. The ideal model minimizes error from each.
