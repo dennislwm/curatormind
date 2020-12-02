@@ -55,4 +55,3 @@ title: Hypothesis
 ### **Bias** error is high when a model is less complex as it ignores relevant information.
 ### **Variance **error increases as complexity increases.
 #### As an analogy, for a decision tree, at deeper branches, nodes are created from a smaller sample size. Hence, the split at deeper levels increases **variance** error.
-####
