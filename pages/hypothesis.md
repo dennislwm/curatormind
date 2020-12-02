@@ -52,4 +52,5 @@ title: Hypothesis
 ## Existent bloat #cf
 ## Non-existent bloat #if
 ## Overall model error is a function of error due to **bias **plus error due to **variance**. The ideal model _minimizes _error from each.
-###
+### **Bias** error is high when a model is less complex as it ignores relevant information.
+### **Variance **error increases as complexity increases.
