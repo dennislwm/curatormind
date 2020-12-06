@@ -54,6 +54,6 @@ title: Hypothesis
 ## Overall model error is a function of error due to **bias **plus error due to **variance**. The ideal model _minimizes _error from each. #be #ve
 ### **Bias** error is high when a model is less complex as it ignores relevant information.
 #### As an analogy, for a decision tree, at top branches, when nodes are created from a larger sample size, we ignore information that is contained in the leaf nodes. Hence, a simple model inherently has **bias **error. #be
-### **Variance **error increases as complexity increases.
-#### As an analogy, for a decision tree, at deeper branches, nodes are created from a smaller sample size. Hence, the split at deeper levels increases **variance** error. #ve
+### **Variance **error increases as complexity increases. #ve
+#### As an analogy, for a decision tree, at deeper branches, nodes are created from a smaller sample size. Hence, the split at deeper levels increases **variance** error.
 ## [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1)
