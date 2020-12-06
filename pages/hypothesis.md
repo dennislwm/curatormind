@@ -11,11 +11,11 @@ title: Hypothesis
 ##### Correct true (CT)
 ##### Correct false (CF)
 ##### Incorrect false (IF)
-#### A minimum lovable product (MLP) consists of the first two hypotheses:
+#### A minimum lovable product (MLP) consists of the first two hypotheses, which reduces **bias** error.
 ##### Non-existent lovable feature (IT)
 ##### Existent lovable feature (CT)
 ### 3. Don't significantly increase complexity
-#### We need to ensure that complexity does not increase significantly in proportion to the reward.
+#### We need to ensure that complexity does not increase significantly in proportion to the reward, i.e. we do not increase **variance** error.
 ##### Existent bloat (CF)
 ##### Non-existent bloat (IF)
 ## Non-existent lovable feature #it
