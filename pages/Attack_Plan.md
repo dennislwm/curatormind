@@ -39,6 +39,7 @@ title: Attack Plan
 ### FX-Git-Pro
 #### Rank attack plan by bias
 ##### High
+######
 ##### Medium
 ##### Low
 #### Identify comfort zone
