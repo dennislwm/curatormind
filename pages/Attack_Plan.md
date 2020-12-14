@@ -50,6 +50,7 @@ title: Attack Plan
 ###### Enable online orders at sticker.rocks
 ### PIECE / etfdata (76)
 #### High
+#####
 #### Medium
 #### Low
 ### Media Transfiguration (53)
