@@ -49,6 +49,9 @@ title: Attack Plan
 ##### Medium
 ###### Enable online orders at sticker.rocks
 ### PIECE / etfdata (76)
+#### High
+#### Medium
+#### Low
 ### Media Transfiguration (53)
 ### tinywebcode / dscode (30)
 #### Rank attack plan by bias
