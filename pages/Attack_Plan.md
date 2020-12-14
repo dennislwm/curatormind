@@ -43,4 +43,6 @@ title: Attack Plan
 ##### Low
 ### Sticker.stories
 #### Rank attack plan by bias
+##### High
+##### Medium
 #####
