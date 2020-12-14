@@ -36,6 +36,7 @@ title: Attack Plan
 ###### Compensation of at least $5k per month
 ##### Medium
 ###### Online profile for side projects, e.g. codersrank
+##### Low
 ### FX-Git-Pro (94)
 #### Rank attack plan by bias
 ##### High
