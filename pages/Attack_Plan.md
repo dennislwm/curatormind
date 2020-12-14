@@ -30,7 +30,7 @@ title: Attack Plan
 #### Market or Finance Risk
 ## Attack Plan
 ### Career / profile (94)
-####
+#### Rank attack plan by bias
 ### FX-Git-Pro (94)
 ### Ledger (76)
 ### Sticker stories (76)
