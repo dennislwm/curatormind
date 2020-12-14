@@ -50,6 +50,7 @@ title: Attack Plan
 #### Rank attack plan by bias
 ##### High
 #### Identify comfort zone
+##### 1. Market risk by using valuation methods, financial statements
 #####
 ### ledger2beancount (76)
 #### Rank attack plan by bias
