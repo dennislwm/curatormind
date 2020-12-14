@@ -51,4 +51,4 @@ title: Attack Plan
 ##### High
 ##### Medium
 ##### Low
-####
+#### Identify comfort zones
