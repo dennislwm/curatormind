@@ -48,6 +48,9 @@ title: Attack Plan
 ##### Low
 ### ledger2beancount
 #### Rank attack plan by bias
+##### High
+##### Medium
+#####
 ### tinywebcode / dscode (30)
 #### Rank attack plan by bias
 ##### High
