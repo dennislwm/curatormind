@@ -71,7 +71,7 @@ title: Attack Plan
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
-######
+###### Create a request for prayer
 #### Identify comfort zone
 ##### 1. Immersive risk by create Wordpress plugin
 ### ledger2beancount (76)
