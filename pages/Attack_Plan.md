@@ -48,7 +48,7 @@ title: Attack Plan
 ##### Low
 #### Identify comfort zone
 ##### 1. Income risk by profit or loss
-##### 2. Technical
+##### 2. Behind-curve risk by setting up ecommerce
 ### PIECE / etfdata (90)
 #### Rank attack plan by bias
 ##### High
