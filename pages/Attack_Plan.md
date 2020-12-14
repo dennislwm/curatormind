@@ -42,6 +42,7 @@ title: Attack Plan
 ##### Medium
 ##### Low
 #### Identify comfort zone
+##### 1. Market risk by technical and fundamental
 #####
 ### Sticker.stories (76)
 #### Rank attack plan by bias
