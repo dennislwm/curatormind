@@ -30,5 +30,5 @@ title: Attack Plan
 #### Market or Finance Risk
 ## Attack Plans
 ### Career Transfiguration
-####
+#### Rank attack plan by bias
 ###
