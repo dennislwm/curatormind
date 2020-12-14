@@ -60,4 +60,5 @@ title: Attack Plan
 ### tinywebcode / dscode (30)
 #### Rank attack plan by bias
 ##### High
-#####
+##### Medium
+##### Low
