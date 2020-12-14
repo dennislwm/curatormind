@@ -33,7 +33,7 @@ title: Attack Plan
 #### Rank attack plan by bias
 ##### High
 ###### Work for charity or Catholic organization
-######
+###### Compensation of at least $5k per month
 ##### Medium
 ##### Low
 ###
