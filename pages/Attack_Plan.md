@@ -37,7 +37,8 @@ title: Attack Plan
 ##### Medium
 ##### Low
 #### Identify comfort zone
-##### 2.
+#####
+##### 2. Scratch-itch risk by part automation
 ##### 3. Growth risk by follower status (channels)
 ### FX-Git-Pro (94)
 #### Rank attack plan by bias
