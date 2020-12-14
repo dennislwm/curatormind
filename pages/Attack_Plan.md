@@ -46,7 +46,7 @@ title: Attack Plan
 ##### High
 ##### Medium
 ##### Low
-####
+#### Identify comfort zone
 ### PIECE / etfdata (90)
 #### Rank attack plan by bias
 ##### High
