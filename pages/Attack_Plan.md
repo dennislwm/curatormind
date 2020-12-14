@@ -35,7 +35,6 @@ title: Attack Plan
 ###### Work for charity or Catholic organization
 ###### Compensation of at least $5k per month
 ##### Medium
-######
 ##### Low
 #### Identify comfort zone
 ##### 1. Income risk by compensation
