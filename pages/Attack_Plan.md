@@ -35,7 +35,7 @@ title: Attack Plan
 ###### Work for charity or Catholic organization
 ###### Compensation of at least $5k per month
 ##### Medium
-######
+###### Online profile for side projects, such as coderranks
 ##### Low
 ######
 ### FX-Git-Pro (94)
