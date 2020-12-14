@@ -36,6 +36,7 @@ title: Attack Plan
 ###### Compensation of at least $5k per month
 ### FX-Git-Pro (94)
 #### Rank attack plan by bias
+##### High
 ### Ledger (76)
 ### Sticker stories (76)
 ### PIECE / etfdata (76)
