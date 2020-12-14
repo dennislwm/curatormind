@@ -18,5 +18,5 @@ title: Attack Plan
 ##### Dual-Bias-Low (53)
 ##### Single-Bias-High (53)
 ##### Single-Bias-Medium (44)
-##### Single-Weekly (30)
+##### Single-Bias-Low (30)
 ####
