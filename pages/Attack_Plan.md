@@ -43,6 +43,7 @@ title: Attack Plan
 ##### Low
 #### Identify comfort zone
 ##### 1. Market risk by technical and fundamental
+##### 2. Policy risk by understand central banks
 #####
 ### Sticker.stories (76)
 #### Rank attack plan by bias
