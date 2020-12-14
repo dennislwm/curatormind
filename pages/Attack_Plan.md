@@ -13,5 +13,5 @@ title: Attack Plan
 ##### BHAG-High (94)
 ##### Dual-High (90)
 ##### BHAG-Medium (78)
-##### Dual-Medium ()
+##### Dual-Medium (76)
 ####
