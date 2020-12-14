@@ -12,5 +12,6 @@ title: Attack Plan
 #### These are the ranked zones in decreasing importance:
 ##### BHAG-High (94)
 ##### Dual-High (90)
+##### BHAG-Medium (78)
 #####
 ####
