@@ -40,4 +40,4 @@ title: Attack Plan
 #### Rank attack plan by bias
 ##### High
 ##### Medium
-#####
+##### Low
