@@ -14,6 +14,7 @@
 #### Create a tag after a sentence or paragraph. #tag
 ####
 ###
+## [[Attack Plan]]
 ## [[Hypothesis]]
 ## Daily journals
 ### [[Dec 10th, 2020]]
