@@ -24,4 +24,5 @@ title: Attack Plan
 #### Growth or Status Risk
 #### Idea-Extract or Safari Risk
 #### Deploy or Scratch-Itch Risk
+#### Policy or Decision Risk
 ####
