@@ -35,7 +35,7 @@ title: Attack Plan
 ###### Work for charity or Catholic organization
 ###### Compensation of at least $5k per month
 ### FX-Git-Pro (94)
-####
+#### Rank attack plan by bias
 ### Ledger (76)
 ### Sticker stories (76)
 ### PIECE / etfdata (76)
