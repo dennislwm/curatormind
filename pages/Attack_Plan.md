@@ -69,7 +69,7 @@ title: Attack Plan
 ##### 1. Market risk by using valuation methods, financial statements
 ##### 2. Policy risk by understanding decision makings
 ### Media Transfiguration
-####
+#### Rank attack plan by bias
 ### ledger2beancount (76)
 #### Rank attack plan by bias
 ##### High
