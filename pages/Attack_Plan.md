@@ -8,7 +8,7 @@ title: Attack Plan
 #### A big hairy audacious goal (BHAG) has at least three zones that are outside your comfort zone.
 #### A dual-zone or risk has at least two zones that are outside your comfort zone.
 #### A single-zone or risk has one uncomfortable zone.
-### 2. Rank the attack plan by bias
+### 2. Rank the attack plan
 #### These are the ranked zones in decreasing importance:
 ##### BHAG-Bias-High (94)
 ##### Dual-Bias-High (90)
@@ -28,3 +28,4 @@ title: Attack Plan
 #### Immersive or Behind-Curve Risk
 #### Profit or Loss Risk
 #### Market or Finance Risk
+##
