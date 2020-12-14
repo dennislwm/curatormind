@@ -35,9 +35,6 @@ title: Attack Plan
 ###### Work for charity or Catholic organization
 ###### Compensation of at least $5k per month
 ##### Medium
-###### Online profile for side projects, such as coderranks
-##### Low
-###### Convert CV from Word to React Json
 ### FX-Git-Pro (94)
 #### Rank attack plan by bias
 ##### High
@@ -66,4 +63,4 @@ title: Attack Plan
 ##### High
 ##### Medium
 ##### Low
-###### Deploy [RobinLinus/snapdrop: A Progressive Web App for local file sharing](https://github.com/RobinLinus/snapdrop)
+###### Deploy snapdrop
