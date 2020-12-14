@@ -28,4 +28,4 @@ title: Attack Plan
 #### Immersive or Behind-Curve Risk
 #### Profit or Loss Risk
 #### Market or Finance Risk
-##
+## Attack Plan
