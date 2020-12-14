@@ -50,6 +50,7 @@ title: Attack Plan
 #### Rank attack plan by bias
 ##### High
 ##### Medium
+######
 ##### Low
 #### Identify comfort zone
 ##### 1. Finance risk by fava analysis
