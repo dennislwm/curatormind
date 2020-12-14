@@ -37,6 +37,7 @@ title: Attack Plan
 ##### Medium
 ###### Online profile for side projects, e.g. codersrank
 ##### Low
+###### Convert CV from Word to React
 ### FX-Git-Pro (94)
 #### Rank attack plan by bias
 ##### High
