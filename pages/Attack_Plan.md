@@ -47,6 +47,7 @@ title: Attack Plan
 ##### Medium
 ##### Low
 #### Identify comfort zone
+##### 1. Income risk by profit or loss
 #####
 ### PIECE / etfdata (90)
 #### Rank attack plan by bias
