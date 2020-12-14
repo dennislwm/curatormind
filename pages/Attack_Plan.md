@@ -37,7 +37,7 @@ title: Attack Plan
 ##### Medium
 ##### Low
 #### Identify comfort zone
-##### 1. Income risk by profit or loss
+##### 1. Income risk by compensation
 ##### 2. Behind-curve risk by update knowledge
 ##### 3. Growth risk by follower status (channels)
 ### FX-Git-Pro (94)
