@@ -19,4 +19,4 @@ title: Attack Plan
 ##### Single-Bias-High (53)
 ##### Single-Bias-Medium (44)
 ##### Single-Bias-Low (30)
-####
+#### Based on the above ranking, it is preferable to attack a high bias dual-zone than a medium-bias BHAG-zone.
