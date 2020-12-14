@@ -23,4 +23,5 @@ title: Attack Plan
 ### 3. Identify comfort zone
 #### Growth or Status Risk
 #### Idea-Extract or Safari Risk
+#### Deploy or Scratch-Itch Risk
 ####
