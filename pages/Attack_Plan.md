@@ -36,7 +36,7 @@ title: Attack Plan
 ###### Compensation of at least $5k per month
 ##### Medium
 ##### Low
-### FX-Git-Pro
+### FX-Git-Pro (94)
 #### Rank attack plan by bias
 ##### High
 ###### backtest-as-a-service
