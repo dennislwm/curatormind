@@ -45,7 +45,7 @@ title: Attack Plan
 #### Rank attack plan by bias
 ##### High
 ##### Medium
-######
+###### Complete sticke
 ##### Low
 #### Identify comfort zone
 ##### 1. Income risk by profit or loss
