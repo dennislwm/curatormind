@@ -44,7 +44,7 @@ title: Attack Plan
 #### Identify comfort zone
 ##### 1. Market risk by technical and fundamental
 ##### 2. Policy risk by understand central banks
-#####
+##### 3. Growth risk by follower status (patreon)
 ### Sticker.stories (76)
 #### Rank attack plan by bias
 ##### High
