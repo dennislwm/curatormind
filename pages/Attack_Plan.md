@@ -38,7 +38,7 @@ title: Attack Plan
 ##### Low
 #### Identify comfort zone
 ##### 1. Income risk by profit or loss
-##### 2. Scratch-itch risk by part automation
+##### 2. Behind-curve risk by update knowledge
 ##### 3. Growth risk by follower status (channels)
 ### FX-Git-Pro (94)
 #### Rank attack plan by bias
