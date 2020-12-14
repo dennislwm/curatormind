@@ -46,6 +46,7 @@ title: Attack Plan
 ##### High
 ##### Medium
 ##### Low
+####
 ### PIECE / etfdata (90)
 #### Rank attack plan by bias
 ##### High
