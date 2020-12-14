@@ -18,5 +18,5 @@ title: Attack Plan
 ##### Dual-Weekly (53)
 ##### Single-Yearly (53)
 ##### Single-Quarterly (44)
-##### Single-
+##### Single-Weekly (30)
 ####
