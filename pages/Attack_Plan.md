@@ -15,5 +15,6 @@ title: Attack Plan
 ##### BHAG-Quarterly (78)
 ##### Dual-Quarterly (76)
 ##### BHAG-Weekly (54)
+##### Dual-Weekly (53)
 #####
 ####
