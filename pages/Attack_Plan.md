@@ -49,6 +49,8 @@ title: Attack Plan
 ### PIECE / etfdata
 #### Rank attack plan by bias
 ##### High
+##### Medium
+#####
 #### Identify comfort zone
 ##### 1. Market risk by using valuation methods, financial statements
 ##### 2. Policy risk by understanding decision makings
