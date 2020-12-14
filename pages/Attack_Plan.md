@@ -68,7 +68,7 @@ title: Attack Plan
 #### Identify comfort zone
 ##### 1. Market risk by using valuation methods, financial statements
 ##### 2. Policy risk by understanding decision makings
-### Media Transfiguration
+### Media Transfiguration (90)
 #### Rank attack plan by bias
 ##### High
 ### ledger2beancount (76)
