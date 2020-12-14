@@ -42,6 +42,7 @@ title: Attack Plan
 #### Rank attack plan by bias
 ##### High
 ##### Medium
+######
 ### Sticker stories (76)
 ### PIECE / etfdata (76)
 ### Media Transfiguration (53)
