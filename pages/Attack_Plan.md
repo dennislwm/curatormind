@@ -50,7 +50,7 @@ title: Attack Plan
 #### Rank attack plan by bias
 ##### High
 ##### Medium
-#####
+##### Low
 #### Identify comfort zone
 ##### 1. Market risk by using valuation methods, financial statements
 ##### 2. Policy risk by understanding decision makings
