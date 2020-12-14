@@ -32,6 +32,7 @@ title: Attack Plan
 ### Career / profile (94)
 #### Rank attack plan by bias
 ##### High
+###### Work for charity or Catholic organization
 ######
 ### FX-Git-Pro (94)
 ### Ledger (76)
