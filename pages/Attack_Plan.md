@@ -32,6 +32,7 @@ title: Attack Plan
 ### Career Transfiguration
 #### Rank attack plan by bias
 ##### High
+###### Work for charity or Catholic organization
 ######
 ##### Medium
 ##### Low
