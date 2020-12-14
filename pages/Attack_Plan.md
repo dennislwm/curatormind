@@ -37,3 +37,4 @@ title: Attack Plan
 ### Media Transfiguration (53)
 ### tinywebcode / dscode (30)
 #### Rank attack plan by bias
+##### High
