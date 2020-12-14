@@ -25,4 +25,5 @@ title: Attack Plan
 #### Idea-Extract or Safari Risk
 #### Deploy or Scratch-Itch Risk
 #### Policy or Decision Risk
+#### Immersive or Behind-Curve Risk
 ####
