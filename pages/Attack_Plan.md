@@ -20,3 +20,4 @@ title: Attack Plan
 ##### Single-Bias-Medium (44)
 ##### Single-Bias-Low (30)
 #### Based on the above ranking, it is a priority to attack a high bias, preferably with at least two zones that are outside your comfort zone.
+###
