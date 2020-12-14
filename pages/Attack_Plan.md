@@ -29,7 +29,7 @@ title: Attack Plan
 #### Profit or Loss Risk
 #### Market or Finance Risk
 ## Attack Plans
-### Career / profile
+### Career / profile (94)
 #### Rank attack plan by bias
 ##### High
 ###### Work for charity or Catholic organization
