@@ -11,7 +11,7 @@ title: Attack Plan
 ### 2. Rank the attack plan
 #### These are the ranked zones in decreasing importance:
 ##### BHAG-Bias-High (94)
-##### Dual-BiasHigh (90)
+##### Dual-Bias-High (90)
 ##### BHAG-Bias-Medium (78)
 ##### Dual-Bias-Medium (76)
 ##### BHAG-Bias-Low (54)
