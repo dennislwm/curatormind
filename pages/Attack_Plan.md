@@ -36,3 +36,4 @@ title: Attack Plan
 ### PIECE / etfdata (76)
 ### Media Transfiguration (53)
 ### tinywebcode / dscode (30)
+#### Rank attack plan by bias
