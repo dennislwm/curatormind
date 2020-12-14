@@ -37,7 +37,7 @@ title: Attack Plan
 ##### Medium
 ##### Low
 #### Identify comfort zone
-#####
+##### 3. Growth risk by follower status (channels)
 ### FX-Git-Pro (94)
 #### Rank attack plan by bias
 ##### High
