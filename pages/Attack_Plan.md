@@ -14,7 +14,7 @@ title: Attack Plan
 ##### Dual-BiasHigh (90)
 ##### BHAG-Bias-Medium (78)
 ##### Dual-Bias-Medium (76)
-##### BHAG- (54)
+##### BHAG-Bias-Low (54)
 ##### Dual-Weekly (53)
 ##### Single-Yearly (53)
 ##### Single-Quarterly (44)
