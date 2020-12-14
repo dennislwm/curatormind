@@ -50,7 +50,7 @@ title: Attack Plan
 #### Rank attack plan by bias
 ##### High
 ##### Medium
-###### Convert my accounts using ledger2beancount
+###### Convert my accounts using [beancount/ledger2beancount: Ledger to Beancount text-based converter](https://github.com/beancount/ledger2beancount)
 ##### Low
 #### Identify comfort zone
 ##### 1. Finance risk by fava analysis
