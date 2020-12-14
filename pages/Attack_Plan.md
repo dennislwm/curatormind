@@ -40,7 +40,7 @@ title: Attack Plan
 ###### backtest-as-a-service
 ### Ledger (76)
 #### Rank attack plan by bias
-##### HIgh
+##### High
 ##### Medium
 ### Sticker stories (76)
 ### PIECE / etfdata (76)
