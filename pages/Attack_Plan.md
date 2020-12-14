@@ -52,6 +52,7 @@ title: Attack Plan
 ##### Medium
 ##### Low
 #### Identify comfort zone
+##### 1. Finance risk by analysis
 #####
 ### tinywebcode / dscode (30)
 #### Rank attack plan by bias
