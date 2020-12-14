@@ -10,8 +10,8 @@ title: Attack Plan
 #### A single-zone or risk has one uncomfortable zone.
 ### 2. Rank the attack plan
 #### These are the ranked zones in decreasing importance:
-##### BHAG-High (94)
-##### Dual-High (90)
+##### BHAG-Year (94)
+##### Dual-Year (90)
 ##### BHAG-Medium (78)
 ##### Dual-Medium (76)
 ##### BHAG-
