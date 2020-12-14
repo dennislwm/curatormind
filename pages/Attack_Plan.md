@@ -70,6 +70,7 @@ title: Attack Plan
 ##### 2. Policy risk by understanding decision makings
 ### Media Transfiguration
 #### Rank attack plan by bias
+##### High
 ### ledger2beancount (76)
 #### Rank attack plan by bias
 ##### High
