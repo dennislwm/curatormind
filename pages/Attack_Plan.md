@@ -45,6 +45,8 @@ title: Attack Plan
 ###### Convert my accounts using ledger2beancount
 ### Sticker stories (76)
 #### Rank attack plan by bias
+##### High
+#####
 ### PIECE / etfdata (76)
 ### Media Transfiguration (53)
 ### tinywebcode / dscode (30)
