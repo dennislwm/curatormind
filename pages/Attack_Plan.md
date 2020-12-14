@@ -12,7 +12,7 @@ title: Attack Plan
 #### These are the ranked zones in decreasing importance:
 ##### BHAG-Yearly (94)
 ##### Dual-Yearly (90)
-##### BHAG-Quarter (78)
-##### Dual-Medium (76)
+##### BHAG-Quarterly (78)
+##### Dual-Quarterly (76)
 ##### BHAG-
 ####
