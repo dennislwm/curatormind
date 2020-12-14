@@ -32,6 +32,7 @@ title: Attack Plan
 ### Career Transfiguration
 #### Rank attack plan by bias
 ##### High
+######
 ##### Medium
 ##### Low
 ###
