@@ -12,8 +12,8 @@ title: Attack Plan
 #### These are the ranked zones in decreasing importance:
 ##### BHAG-BiasHigh (94)
 ##### Dual-BiasHigh (90)
-##### BHAG-Quarterly (78)
-##### Dual-Quarterly (76)
+##### BHAG-BiasLow (78)
+##### Dual-BiasLow (76)
 ##### BHAG-Weekly (54)
 ##### Dual-Weekly (53)
 ##### Single-Yearly (53)
