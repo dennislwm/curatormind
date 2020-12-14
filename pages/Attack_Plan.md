@@ -29,6 +29,6 @@ title: Attack Plan
 #### Profit or Loss Risk
 #### Market or Finance Risk
 ## Attack Plan
-### Career / profile
+### Career / profile (94)
 ### FX-Git-Pro
 ###
