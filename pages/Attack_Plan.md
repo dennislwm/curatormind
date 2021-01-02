@@ -24,11 +24,10 @@ title: Attack Plan
 #### Asset Class or Quality Risk (+40)
 #### Growth or Status Risk (+30)
 #### Policy or Decision Risk (+20)
-#### Idea-Extract or Safari Risk
-#### Deploy or Scratch-Itch Risk
-#### Policy or Decision Risk
+#### Market or Finance Risk (+20)
+#### Idea-Extract or Safari Risk (+10)
+#### Deploy or Scratch-Itch Risk (+10)
 #### Immersive or Behind-Curve Risk (+10)
-#### Market or Finance Risk
 ## Attack Plan
 ### Career / profile (94)
 #### Rank attack plan by bias
