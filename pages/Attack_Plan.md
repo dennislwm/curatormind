@@ -75,7 +75,7 @@ title: Attack Plan
 #### Rank comfort zone
 ##### Best-in-class (comfortable)
 ###### GitHub
-##### Deploy (comfortable)
+##### Deploy (uncomfortable)
 ###### DO App Platform
 ##### Immersive (uncomfortable)
 ###### API +10
