@@ -79,7 +79,7 @@ title: Attack Plan
 ##### Deploy (comfortable)
 ###### DO App Platform +10
 ##### Immersive (uncomfortable)
-###### API +10
+###### Design API +10
 ##### Safari (uncomfortable)
 ###### Codersrank +10
 #### References
