@@ -78,6 +78,7 @@ title: Attack Plan
 #### Rank comfort zone
 ##### Status (comfortable)
 ###### GitHub (with Codersrank) +30
+##### Deploy (uncomfortable)
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
