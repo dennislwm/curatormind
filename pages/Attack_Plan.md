@@ -69,3 +69,4 @@ title: Attack Plan
 ###### Deploy snapdrop
 #### Rank comfort zone
 ##### Best-in-class
+###### AWS
