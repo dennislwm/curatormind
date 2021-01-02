@@ -62,8 +62,7 @@ title: Attack Plan
 ##### Low
 #### Rank comfort zone
 ##### chart-as-a-service
-#### Medium
-#### Low
+#### References
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
