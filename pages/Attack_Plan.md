@@ -80,6 +80,7 @@ title: Attack Plan
 ##### Best-in-class (+40)
 ###### AWS
 ###### LinkedIn
+###### Pinterest
 ###### Twitter
 ##### Git-like (+20)
 ###### Terraform
