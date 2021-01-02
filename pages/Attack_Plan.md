@@ -73,7 +73,7 @@ title: Attack Plan
 ##### Best-in-class (+40)
 ###### AWS
 ###### Twitter
-##### Git-like
+##### Git-like (+20)
 ###### Terraform
 ###### Docker
 ##### References
