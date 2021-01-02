@@ -72,6 +72,7 @@ title: Attack Plan
 ##### [Imagegen as a Service (Free), All Bloggers Should Have One - DEV Community 👩‍💻👨‍💻](https://dev.to/phuctm97/imagegen-as-a-service-free-all-bloggers-should-have-one-1fad)
 ##### [Why ARKK? : singaporefi](https://www.reddit.com/r/singaporefi/comments/kkt372/why_arkk/)
 ### Portfolio DO Hackathon (53)
+####
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
