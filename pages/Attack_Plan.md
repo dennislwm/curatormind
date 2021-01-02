@@ -78,7 +78,7 @@ title: Attack Plan
 ###### DO App Platform +10
 ##### Immersive (uncomfortable)
 ######
-#####
+##### Safari (uncomfortable)
 #### References
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
