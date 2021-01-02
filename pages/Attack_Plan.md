@@ -96,7 +96,7 @@ title: Attack Plan
 ###### [Build a Three-Tier Network in AWS with Terraform - DEV Community 👩‍💻👨‍💻](https://dev.to/adriaanbd/build-a-three-tier-network-in-aws-with-terraform-461d) (+60)
 ###### [Launch Your WordPress website with AWS Lightsail with few clicks only! - DEV Community 👩‍💻👨‍💻](https://dev.to/mubbashir10/launch-your-wordpress-website-with-aws-lightsail-with-few-clicks-only-200k) +40
 ###### [qeeqbox/social-analyzer: API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)](https://github.com/qeeqbox/social-analyzer) +40
-######
+###### [How to run a Dev Instagram page? 🤳 - DEV Community 👩‍💻👨‍💻](https://dev.to/razvanstatescu/how-to-run-a-dev-instagram-page-28oa) +40
 ###### [In-depth LinkedIn organic marketing guide](https://www.demandcurve.com/playbooks/linkedin-organic#jqm505eqmp8vdw8hqpeawk) (+40)
 ###### [How to use Pinterest for Marketing your Business](https://blog.aesthetic.com/blog/pinterest-guide/) +40
 ###### [How to Create Telegram Bot in Python | by Ng Wai Foong | Better Programming | Dec, 2020 | Medium](https://medium.com/better-programming/how-to-create-telegram-bot-in-python-cccc4babcc30) +40
