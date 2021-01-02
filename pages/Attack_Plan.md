@@ -92,7 +92,7 @@ title: Attack Plan
 ###### Terraform
 ###### Docker
 ##### References
-######
+###### [How to deploy a full environment for WordPress site via docker by using Terraform? - DEV Community 👩‍💻👨‍💻](https://dev.to/aws-builders/how-to-deploy-a-full-environment-for-wordpress-site-via-docker-by-using-terraform-3pk3) +80
 ###### [Terraform Tutorial For Beginners on AWS | Run A Static Website - DEV Community 👩‍💻👨‍💻](https://dev.to/jmbharathram/terraform-tutorial-for-beginners-on-aws-run-a-static-website-1hf0) (+60)
 ###### [Build a Three-Tier Network in AWS with Terraform - DEV Community 👩‍💻👨‍💻](https://dev.to/adriaanbd/build-a-three-tier-network-in-aws-with-terraform-461d) (+60)
 ###### [Launch Your WordPress website with AWS Lightsail with few clicks only! - DEV Community 👩‍💻👨‍💻](https://dev.to/mubbashir10/launch-your-wordpress-website-with-aws-lightsail-with-few-clicks-only-200k) +40
