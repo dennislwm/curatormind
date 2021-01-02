@@ -79,4 +79,4 @@ title: Attack Plan
 ##### References
 ###### [Terraform Tutorial For Beginners on AWS | Run A Static Website - DEV Community 👩‍💻👨‍💻](https://dev.to/jmbharathram/terraform-tutorial-for-beginners-on-aws-run-a-static-website-1hf0)
 ###### [How to Host Flask Applications on Namecheap cPanel - DEV Community 👩‍💻👨‍💻](https://dev.to/lordghostx/how-to-host-flask-applications-on-namecheap-cpanel-299b)
-######
+###### [Explore a user’s Tweets and mentions with the Twitter API v2 - DEV Community 👩‍💻👨‍💻](https://dev.to/twitterdev/explore-a-user-s-tweets-and-mentions-with-the-twitter-api-v2-274c)
