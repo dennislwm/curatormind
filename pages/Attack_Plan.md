@@ -75,6 +75,7 @@ title: Attack Plan
 #### Rank attack plan by bias
 #### Rank comfort zone
 ##### Deploy (uncomfortable)
+###### DO App Platform +10
 #### References
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
