@@ -77,6 +77,7 @@ title: Attack Plan
 ##### Best-in-class (comfortable) +0
 ###### GitHub
 ##### Top-line (uncomfortable) +10
+###### [TL;DR](https://dennislwm.netlify.app/)
 ###### Dev.to
 ###### Twitter
 ##### Deploy (comfortable) +0
