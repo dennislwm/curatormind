@@ -82,6 +82,7 @@ title: Attack Plan
 ##### Safari (uncomfortable)
 ###### Codersrank +10
 #### References
+##### [Introducing: 6 Amazing Widgets to Brighten Your 2020 (and beyond) - CodersRank Blog](https://blog.codersrank.io/6-amazing-widgets)
 #####
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
