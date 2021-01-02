@@ -83,7 +83,7 @@ title: Attack Plan
 ###### Codersrank +10
 #### References
 ##### [Introducing: 6 Amazing Widgets to Brighten Your 2020 (and beyond) - CodersRank Blog](https://blog.codersrank.io/6-amazing-widgets)
-#####
+##### [AmruthPillai/Reactive-Resume: A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!](https://github.com/AmruthPillai/Reactive-Resume)
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
