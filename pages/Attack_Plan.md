@@ -77,9 +77,9 @@ title: Attack Plan
 ##### Deploy
 ###### DO App Platform +10
 ##### Immersive (uncomfortable)
-######
+###### API +10
 ##### Safari (uncomfortable)
-######
+###### Codersrank +10
 #### References
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
