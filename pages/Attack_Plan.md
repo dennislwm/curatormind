@@ -23,8 +23,9 @@ title: Attack Plan
 ### 3. Identify and rank comfort zone
 #### Best-in-Class or Quality Risk (+40)
 #### Top-line or Status Risk (+30)
-#### Policy or Decision Risk (+20)
-#### Market or Finance Risk (+20)
+#### Policy or Decision Risk (+30)
+#### Market or Finance Risk (+30)
+####
 #### Idea-Extract or Safari Risk (+10)
 #### Deploy or Scratch-Itch Risk (+10)
 #### Immersive or Behind-Curve Risk (+10)
