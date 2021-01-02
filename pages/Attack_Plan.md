@@ -26,7 +26,7 @@ title: Attack Plan
 #### Policy or Decision Risk (+30)
 #### Market or Finance Risk (+30)
 #### Git-like Risk (+20)
-####
+#### Profit or Loss Risk (+20)
 #### Idea-Extract or Safari Risk (+10)
 #### Deploy or Scratch-Itch Risk (+10)
 #### Immersive or Behind-Curve Risk (+10)
