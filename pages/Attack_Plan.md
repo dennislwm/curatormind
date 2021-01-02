@@ -70,13 +70,13 @@ title: Attack Plan
 ##### [Classification Algorithm to Predict Price Movements & Performance Testing | by Sarit Maitra | Dec, 2020 | Medium](https://sarit-maitra.medium.com/classification-algorithm-to-predict-price-movements-performance-testing-b69e95d5f215)
 ##### [Imagegen as a Service (Free), All Bloggers Should Have One - DEV Community 👩‍💻👨‍💻](https://dev.to/phuctm97/imagegen-as-a-service-free-all-bloggers-should-have-one-1fad)
 ##### [Why ARKK? : singaporefi](https://www.reddit.com/r/singaporefi/comments/kkt372/why_arkk/)
-### Portfolio DO Hackathon (84)
+### Portfolio DO Hackathon (83)
 #### Rank attack plan by bias
-##### BHAG-Random-Low 54
+##### Dual-Random-Low 53
 #### Rank comfort zone
 ##### Best-in-class (comfortable)
 ###### GitHub
-##### Deploy (uncomfortable)
+##### Deploy (comfortable)
 ###### DO App Platform +10
 ##### Immersive (uncomfortable)
 ###### API +10
