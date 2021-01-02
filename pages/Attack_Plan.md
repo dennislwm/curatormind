@@ -64,8 +64,7 @@ title: Attack Plan
 ##### Medium
 ##### Low
 #### Rank comfort zone
-##### chart-as-a-service
-##### performance-as-a-service
+#####
 #### References
 ##### [A New Way To Trade Moving Averages — A Study in Python. | by Sofien Kaabar | Dec, 2020 | codeburst](https://codeburst.io/a-new-way-to-trade-moving-averages-a-study-in-python-266dbb72b9d0)
 ##### [Simple Way of Evaluating Algorithmic Trading Strategy | by Sarit Maitra | Dec, 2020 | Medium](https://sarit-maitra.medium.com/simple-way-of-evaluating-trading-strategy-c490e3e6efbd)
