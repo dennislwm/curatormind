@@ -77,6 +77,8 @@ title: Attack Plan
 ##### Best-in-class (comfortable)
 ###### GitHub
 ##### Top-line (uncomfortable)
+###### Dev.to
+###### Twitter
 ##### Deploy (comfortable)
 ###### DO App Platform +10
 ##### Immersive (uncomfortable)
