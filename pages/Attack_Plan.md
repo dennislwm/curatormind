@@ -58,6 +58,8 @@ title: Attack Plan
 #### Rank attack plan by bias
 ##### High
 ###### Chart-as-a-service
+##### Medium
+#####
 #### High
 ##### chart-as-a-service
 #### Medium
