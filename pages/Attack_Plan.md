@@ -69,6 +69,7 @@ title: Attack Plan
 ##### [A New Way To Trade Moving Averages — A Study in Python. | by Sofien Kaabar | Dec, 2020 | codeburst](https://codeburst.io/a-new-way-to-trade-moving-averages-a-study-in-python-266dbb72b9d0)
 ##### [Simple Way of Evaluating Algorithmic Trading Strategy | by Sarit Maitra | Dec, 2020 | Medium](https://sarit-maitra.medium.com/simple-way-of-evaluating-trading-strategy-c490e3e6efbd)
 ##### [Classification Algorithm to Predict Price Movements & Performance Testing | by Sarit Maitra | Dec, 2020 | Medium](https://sarit-maitra.medium.com/classification-algorithm-to-predict-price-movements-performance-testing-b69e95d5f215)
+##### [Imagegen as a Service (Free), All Bloggers Should Have One - DEV Community 👩‍💻👨‍💻](https://dev.to/phuctm97/imagegen-as-a-service-free-all-bloggers-should-have-one-1fad)
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
