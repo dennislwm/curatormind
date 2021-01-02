@@ -77,7 +77,7 @@ title: Attack Plan
 ###### portfolio-as-a-service
 #### Rank comfort zone
 ##### Status (comfortable)
-######
+###### GitHub (with Codersrank) +30
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
