@@ -82,7 +82,7 @@ title: Attack Plan
 ###### DO +10
 ##### Immersive (uncomfortable)
 ###### API +10
-####
+#### References
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
