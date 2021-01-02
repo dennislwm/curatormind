@@ -91,7 +91,7 @@ title: Attack Plan
 ##### References
 ###### [Terraform Tutorial For Beginners on AWS | Run A Static Website - DEV Community 👩‍💻👨‍💻](https://dev.to/jmbharathram/terraform-tutorial-for-beginners-on-aws-run-a-static-website-1hf0) (+60)
 ###### [Build a Three-Tier Network in AWS with Terraform - DEV Community 👩‍💻👨‍💻](https://dev.to/adriaanbd/build-a-three-tier-network-in-aws-with-terraform-461d) (+60)
-######
+###### [qeeqbox/social-analyzer: API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)](https://github.com/qeeqbox/social-analyzer) +40
 ###### [How to use Pinterest for Marketing your Business](https://blog.aesthetic.com/blog/pinterest-guide/) +40
 ###### [In-depth LinkedIn organic marketing guide](https://www.demandcurve.com/playbooks/linkedin-organic#jqm505eqmp8vdw8hqpeawk) (+40)
 ###### [Explore a user’s Tweets and mentions with the Twitter API v2 - DEV Community 👩‍💻👨‍💻](https://dev.to/twitterdev/explore-a-user-s-tweets-and-mentions-with-the-twitter-api-v2-274c) (+40)
