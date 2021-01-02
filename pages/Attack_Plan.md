@@ -64,6 +64,7 @@ title: Attack Plan
 ##### Low
 #### Rank comfort zone
 ##### chart-as-a-service
+#####
 #### References
 ##### [A New Way To Trade Moving Averages — A Study in Python. | by Sofien Kaabar | Dec, 2020 | codeburst](https://codeburst.io/a-new-way-to-trade-moving-averages-a-study-in-python-266dbb72b9d0)
 ### Media Transfiguration (53)
