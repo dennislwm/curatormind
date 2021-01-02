@@ -10,7 +10,7 @@ title: Attack Plan
 #### A single-zone or risk has one uncomfortable zone.
 ### 2. Rank the attack plan
 #### These are the ranked zones in decreasing importance:
-##### BHAG-Bias-High (94)
+##### BHAG-Bias-High (9.4)
 ##### Dual-Bias-High (90)
 ##### BHAG-Bias-Medium (78)
 ##### Dual-Bias-Medium (76)
@@ -60,11 +60,11 @@ title: Attack Plan
 #### Rank attack plan by bias
 ##### High
 ###### Chart-as-a-service
-###### Performance-as-a-service
 ##### Medium
 ##### Low
 #### Rank comfort zone
-#####
+##### chart-as-a-service
+##### performance-as-a-service
 #### References
 ##### [A New Way To Trade Moving Averages — A Study in Python. | by Sofien Kaabar | Dec, 2020 | codeburst](https://codeburst.io/a-new-way-to-trade-moving-averages-a-study-in-python-266dbb72b9d0)
 ##### [Simple Way of Evaluating Algorithmic Trading Strategy | by Sarit Maitra | Dec, 2020 | Medium](https://sarit-maitra.medium.com/simple-way-of-evaluating-trading-strategy-c490e3e6efbd)
@@ -72,17 +72,6 @@ title: Attack Plan
 ##### [Imagegen as a Service (Free), All Bloggers Should Have One - DEV Community 👩‍💻👨‍💻](https://dev.to/phuctm97/imagegen-as-a-service-free-all-bloggers-should-have-one-1fad)
 ##### [Why ARKK? : singaporefi](https://www.reddit.com/r/singaporefi/comments/kkt372/why_arkk/)
 ### Portfolio DO Hackathon (53)
-#### Rank attack plan by bias
-##### Dual-Bias-Low 53
-###### portfolio-as-a-service
-#### Rank comfort zone
-##### Status (comfortable)
-###### GitHub (with Codersrank) +30
-##### Deploy (uncomfortable)
-###### DO +10
-##### Immersive (uncomfortable)
-###### API +10
-#### References
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
