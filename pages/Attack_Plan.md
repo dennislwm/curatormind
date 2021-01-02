@@ -41,7 +41,6 @@ title: Attack Plan
 ##### Low
 ###### Convert CV from Word to React
 #### References
-##### [Introducing: 6 Amazing Widgets to Brighten Your 2020 (and beyond) - CodersRank Blog](https://blog.codersrank.io/6-amazing-widgets/)
 ### FX-Git-Pro (94)
 #### Rank attack plan by bias
 ##### High
