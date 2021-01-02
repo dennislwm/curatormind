@@ -76,15 +76,15 @@ title: Attack Plan
 #### Rank comfort zone
 ##### Best-in-class (comfortable)
 ###### GitHub
-##### Top-line (uncomfortable)
+##### Top-line (uncomfortable) +10
 ###### Dev.to
 ###### Twitter
 ##### Deploy (comfortable)
-###### DO App Platform +10
-##### Immersive (uncomfortable)
-###### Design API +10
-##### Safari (uncomfortable)
-###### Integrate Codersrank +10
+###### DO App Platform
+##### Immersive (uncomfortable) +10
+###### Design API
+##### Safari (uncomfortable) +10
+###### Integrate Codersrank
 #### References
 ##### [Introducing: 6 Amazing Widgets to Brighten Your 2020 (and beyond) - CodersRank Blog](https://blog.codersrank.io/6-amazing-widgets)
 ##### [AmruthPillai/Reactive-Resume: A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!](https://github.com/AmruthPillai/Reactive-Resume)
