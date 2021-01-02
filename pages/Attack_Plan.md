@@ -70,7 +70,7 @@ title: Attack Plan
 ##### Low
 ###### Deploy snapdrop
 #### Rank comfort zone
-##### Best-in-class
+##### Best-in-class (+40)
 ###### AWS
 ###### Twitter
 ##### Git-like
