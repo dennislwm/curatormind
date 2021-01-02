@@ -55,6 +55,7 @@ title: Attack Plan
 ##### Medium
 ###### Enable online orders at sticker.rocks
 ### PIECE / etfdata (90)
+#### Rank attack plan by bias
 #### High
 ##### chart-as-a-service
 #### Medium
