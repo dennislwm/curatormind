@@ -74,12 +74,12 @@ title: Attack Plan
 #### Rank attack plan by bias
 ##### Dual-Random-Low 53
 #### Rank comfort zone
-##### Best-in-class (comfortable)
+##### Best-in-class (comfortable) +0
 ###### GitHub
 ##### Top-line (uncomfortable) +10
 ###### Dev.to
 ###### Twitter
-##### Deploy (comfortable)
+##### Deploy (comfortable) +0
 ###### DO App Platform
 ##### Immersive (uncomfortable) +10
 ###### Design API
