@@ -73,6 +73,7 @@ title: Attack Plan
 ##### [Why ARKK? : singaporefi](https://www.reddit.com/r/singaporefi/comments/kkt372/why_arkk/)
 ### Portfolio DO Hackathon (53)
 #### Rank attack plan by bias
+##### Dual-Bias-Low 53
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
