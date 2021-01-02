@@ -73,4 +73,5 @@ title: Attack Plan
 ##### Best-in-class
 ###### AWS
 ##### Git-like
-###### Terraform + Docker
+###### Terraform
+###### Docker
