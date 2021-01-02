@@ -79,6 +79,7 @@ title: Attack Plan
 ##### Immersive (uncomfortable)
 ######
 ##### Safari (uncomfortable)
+######
 #### References
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
