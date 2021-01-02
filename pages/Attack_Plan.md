@@ -79,6 +79,7 @@ title: Attack Plan
 ##### Status (comfortable)
 ###### GitHub (with Codersrank) +30
 ##### Deploy (uncomfortable)
+###### DO +10
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
