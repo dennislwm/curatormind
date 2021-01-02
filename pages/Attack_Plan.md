@@ -74,7 +74,7 @@ title: Attack Plan
 ### Portfolio DO Hackathon (53)
 #### Rank attack plan by bias
 #### Rank comfort zone
-##### Deploy
+##### Deploy (uncomfortable)
 #### References
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
