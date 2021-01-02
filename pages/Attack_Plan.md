@@ -82,7 +82,7 @@ title: Attack Plan
 ###### Twitter
 ##### Deploy (comfortable) +0
 ###### DO App Platform
-##### Immersive (uncomfortable) +10
+#####
 ###### Design API
 ##### Safari (uncomfortable) +10
 ###### Integrate Codersrank
