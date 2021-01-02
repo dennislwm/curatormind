@@ -21,7 +21,7 @@ title: Attack Plan
 ##### Single-Bias-Low (30)
 #### Based on the above ranking, it is a priority to attack a high bias, preferably with at least two zones that are outside your comfort zone.
 ### 3. Identify and rank comfort zone
-#### Asset Class or Quality Risk (+40)
+#### Best-in-Class or Quality Risk (+40)
 #### Growth or Status Risk (+30)
 #### Policy or Decision Risk (+20)
 #### Market or Finance Risk (+20)
