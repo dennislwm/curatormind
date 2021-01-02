@@ -25,6 +25,7 @@ title: Attack Plan
 #### Top-line or Status Risk (+30)
 #### Policy or Decision Risk (+30)
 #### Market or Finance Risk (+30)
+#### Git-like Risk (+20)
 ####
 #### Idea-Extract or Safari Risk (+10)
 #### Deploy or Scratch-Itch Risk (+10)
