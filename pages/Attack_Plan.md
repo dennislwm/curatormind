@@ -76,6 +76,7 @@ title: Attack Plan
 ##### Dual-Bias-Low 53
 ###### portfolio-as-a-service
 #### Rank comfort zone
+#####
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
