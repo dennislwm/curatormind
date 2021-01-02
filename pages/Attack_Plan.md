@@ -72,6 +72,7 @@ title: Attack Plan
 ##### [Why ARKK? : singaporefi](https://www.reddit.com/r/singaporefi/comments/kkt372/why_arkk/)
 ### Portfolio DO Hackathon (53)
 #### Rank attack plan by bias
+#####
 #### Rank comfort zone
 ##### Best-in-class (comfortable)
 ###### GitHub
