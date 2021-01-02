@@ -68,3 +68,4 @@ title: Attack Plan
 ##### Low
 ###### Deploy snapdrop
 #### Rank comfort zone
+#####
