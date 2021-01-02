@@ -91,5 +91,5 @@ title: Attack Plan
 ###### [How to use Pinterest for Marketing your Business](https://blog.aesthetic.com/blog/pinterest-guide/) +40
 ###### [In-depth LinkedIn organic marketing guide](https://www.demandcurve.com/playbooks/linkedin-organic#jqm505eqmp8vdw8hqpeawk) (+40)
 ###### [Explore a user’s Tweets and mentions with the Twitter API v2 - DEV Community 👩‍💻👨‍💻](https://dev.to/twitterdev/explore-a-user-s-tweets-and-mentions-with-the-twitter-api-v2-274c) (+40)
-######
+###### [Sentiment analysis on streaming Twitter data using Spark Structured Streaming & Python | by Elena Stamatelou | Dec, 2020 | Towards Data Science](https://towardsdatascience.com/sentiment-analysis-on-streaming-twitter-data-using-spark-structured-streaming-python-fc873684bfe3) +40
 ###### [How to Host Flask Applications on Namecheap cPanel - DEV Community 👩‍💻👨‍💻](https://dev.to/lordghostx/how-to-host-flask-applications-on-namecheap-cpanel-299b)
