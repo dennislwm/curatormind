@@ -70,23 +70,41 @@ title: Attack Plan
 ##### [Classification Algorithm to Predict Price Movements & Performance Testing | by Sarit Maitra | Dec, 2020 | Medium](https://sarit-maitra.medium.com/classification-algorithm-to-predict-price-movements-performance-testing-b69e95d5f215)
 ##### [Imagegen as a Service (Free), All Bloggers Should Have One - DEV Community 👩‍💻👨‍💻](https://dev.to/phuctm97/imagegen-as-a-service-free-all-bloggers-should-have-one-1fad)
 ##### [Why ARKK? : singaporefi](https://www.reddit.com/r/singaporefi/comments/kkt372/why_arkk/)
-### Portfolio DO Hackathon (74)
+### Portfolio DO Hackathon 94
 #### Rank attack plan by bias
-##### BHAG-Random-Low 54
+##### BHAG-Random+54
 #### Rank comfort zone
-##### Best-in-class (comfortable) +0
+##### Best-in-class comfortable+0
 ###### GitHub
-##### Top-line (uncomfortable) +10
+##### Show-up uncomfortable+30
 ###### [TL;DR](https://dennislwm.netlify.app/)
 ###### Dev.to
 ###### Twitter
-##### Deploy (comfortable) +0
+##### Deploy comfortable+0
 ###### DO App Platform
-##### Safari (uncomfortable) +10
+##### Safari uncomfortable+10
 ###### Integrate Codersrank
 #### References
 ##### [Introducing: 6 Amazing Widgets to Brighten Your 2020 (and beyond) - CodersRank Blog](https://blog.codersrank.io/6-amazing-widgets)
 ##### [AmruthPillai/Reactive-Resume: A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!](https://github.com/AmruthPillai/Reactive-Resume)
+### Postman API Hackathon 124
+#### Rank attack plan by bias
+##### BHAG-Random+54
+#### Rank comfort zone
+##### Show-up uncomfortable+30
+###### TL;DR
+###### Dev.to
+###### Twitter
+###### Medium
+##### Market or Finance uncomfortable+30
+###### chart-as-a-service
+###### pyfxgit
+##### Deploy uncomfortable+10
+###### OpenAPI
+###### Collection
+###### Environment
+###### Monitor
+###### Mock server
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
