@@ -107,6 +107,9 @@ title: Attack Plan
 ###### Monitor
 ###### Mock server
 ##### Immersive uncomfortable +10
+###### Click
+###### OpenAPI
+###### Swagger
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
