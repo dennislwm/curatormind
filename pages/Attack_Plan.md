@@ -106,6 +106,7 @@ title: Attack Plan
 ###### Environment
 ###### Monitor
 ###### Mock server
+##### Immersive uncomfortable +10
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
