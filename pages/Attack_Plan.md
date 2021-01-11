@@ -106,10 +106,6 @@ title: Attack Plan
 ####### Environment
 ####### Monitor
 ####### Mock server
-###### Collection
-###### Environment
-###### Monitor
-###### Mock server
 ##### Immersive uncomfortable +10
 ###### Click
 ###### FastAPI
