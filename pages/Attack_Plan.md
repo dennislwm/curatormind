@@ -113,7 +113,7 @@ title: Attack Plan
 ##### Immersive uncomfortable +10
 ###### Click
 ###### OpenAPI / Swagger
-###### Swagger
+###### FastAPI
 ### Media Transfiguration (53)
 #### Rank attack plan by bias
 ##### High
