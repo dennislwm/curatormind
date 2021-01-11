@@ -95,6 +95,7 @@ title: Attack Plan
 ###### TL;DR
 ###### Dev.to
 ###### Twitter
+###### HackerNews
 ###### Medium
 ##### Market or Finance uncomfortable+30
 ###### chart-as-a-service
