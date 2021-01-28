@@ -51,6 +51,7 @@ title: Attack Plan
 ###### instagram.com/hypowork
 ###### reddit.com/user/dennislwm
 ###### twitter.com/hypowork
+###### news.ycombinator.com
 ##### Git-like Risk+20
 ###### github.com/dennislwm/netlify-hugo-makerwork
 ###### makerwork.netlify.app
