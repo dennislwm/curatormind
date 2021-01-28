@@ -41,7 +41,7 @@ title: Attack Plan
 ##### Low
 ###### Convert CV from Word to React
 #### References
-### Makerwork150
+### Makerwork 150
 #### Rank attack plan by bias
 ##### Dual-Risk-CI+90
 #### Rank comfort zone
