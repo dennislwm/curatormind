@@ -50,6 +50,7 @@ title: Attack Plan
 ###### instagram.com/hypowork
 ###### getmakerlog.com/@hypowork
 ##### Git-like Risk+20
+###### makerwork.netlify.app
 ###### makerwork.substack.com
 ###### jotform.com/myforms
 ### FX-Git-Pro (94)
