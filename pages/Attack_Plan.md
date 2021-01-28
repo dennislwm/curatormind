@@ -42,6 +42,8 @@ title: Attack Plan
 ###### Convert CV from Word to React
 #### References
 ### Makerwork
+#### Rank attack plan by bias
+#### Rank comfort zone
 ### FX-Git-Pro (94)
 #### Rank attack plan by bias
 ##### High
