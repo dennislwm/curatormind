@@ -58,9 +58,8 @@ title: Attack Plan
 ###### makerwork.netlify.app
 ###### makerwork.substack.com
 ###### github.com/dennislwm/netlify-hugo-makerwork
-######
+###### inkdrop
 ###### jotform.com/myforms
-######
 ### FX-Git-Pro (94)
 #### Rank attack plan by bias
 ##### High
