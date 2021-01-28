@@ -45,6 +45,7 @@ title: Attack Plan
 #### Rank attack plan by bias
 #### Rank comfort zone
 ##### Show-up uncomfortable+30
+######
 ##### Git-like Risk+20
 ### FX-Git-Pro (94)
 #### Rank attack plan by bias
