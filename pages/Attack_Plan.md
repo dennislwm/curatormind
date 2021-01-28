@@ -44,6 +44,7 @@ title: Attack Plan
 ### Makerwork
 #### Rank attack plan by bias
 #### Rank comfort zone
+##### Show-up uncomfortable+30
 ### FX-Git-Pro (94)
 #### Rank attack plan by bias
 ##### High
