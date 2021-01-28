@@ -46,7 +46,7 @@ title: Attack Plan
 #### Rank comfort zone
 ##### Show-up uncomfortable+30
 ###### twitter.com/hypowork
-###### indiehackers.com/
+###### indiehackers.com/dennislwm
 ###### instagram.com/hypowork
 ##### Git-like Risk+20
 ###### makerwork.substack.com
