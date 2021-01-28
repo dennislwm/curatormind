@@ -47,6 +47,7 @@ title: Attack Plan
 ##### Show-up uncomfortable+30
 ######
 ##### Git-like Risk+20
+######
 ### FX-Git-Pro (94)
 #### Rank attack plan by bias
 ##### High
