@@ -46,6 +46,7 @@ title: Attack Plan
 #### Rank comfort zone
 ##### Show-up uncomfortable+30
 ######
+###### instagram.com/hypowork
 ##### Git-like Risk+20
 ###### makerwork.substack.com
 ######
