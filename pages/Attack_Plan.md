@@ -43,7 +43,7 @@ title: Attack Plan
 #### References
 ### Makerwork
 #### Rank attack plan by bias
-##### D
+##### Dual-Risk-CI+90
 #### Rank comfort zone
 ##### Show-up uncomfortable+30
 ###### dev.to/dennislwm
