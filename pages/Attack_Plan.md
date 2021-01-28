@@ -47,6 +47,7 @@ title: Attack Plan
 ##### Show-up uncomfortable+30
 ###### twitter.com/hypowork
 ###### indiehackers.com/dennislwm
+###### reddit.com/user/dennislwm
 ###### instagram.com/hypowork
 ###### getmakerlog.com/@hypowork
 ##### Git-like Risk+20
