@@ -45,10 +45,10 @@ title: Attack Plan
 #### Rank attack plan by bias
 #### Rank comfort zone
 ##### Show-up uncomfortable+30
-###### twitter.com/hypowork
+######
 ###### indiehackers.com/dennislwm
-###### reddit.com/user/dennislwm
 ###### instagram.com/hypowork
+###### reddit.com/user/dennislwm
 ###### getmakerlog.com/@hypowork
 ##### Git-like Risk+20
 ###### github.com/dennislwm/netlify-hugo-makerwork
