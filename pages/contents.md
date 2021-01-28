@@ -17,6 +17,7 @@
 ## [[Attack Plan]]
 ## [[Hypothesis]]
 ## Daily journals
+### [[Jan 28th, 2021]]
 ### [[Jan 19th, 2021]]
 ### [[Jan 18th, 2021]]
 ### [[Jan 9th, 2021]]
