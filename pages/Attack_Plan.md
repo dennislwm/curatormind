@@ -55,7 +55,6 @@ title: Attack Plan
 ###### news.ycombinator.com
 ##### Git-like Risk+20
 ######
-###### makerwork.netlify.app
 ###### makerwork.substack.com
 ###### github.com/dennislwm/netlify-hugo-makerwork
 ###### inkdrop
