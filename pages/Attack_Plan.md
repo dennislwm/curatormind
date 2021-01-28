@@ -48,6 +48,7 @@ title: Attack Plan
 ###### twitter.com/hypowork
 ###### indiehackers.com/dennislwm
 ###### instagram.com/hypowork
+###### getmakerlog.com/
 ##### Git-like Risk+20
 ###### makerwork.substack.com
 ###### jotform.com/myforms
