@@ -45,7 +45,8 @@ title: Attack Plan
 #### Rank attack plan by bias
 #### Rank comfort zone
 ##### Show-up uncomfortable+30
-###### indiehackers.com
+###### twitter.com/hypowork
+###### indiehackers.com/
 ###### instagram.com/hypowork
 ##### Git-like Risk+20
 ###### makerwork.substack.com
