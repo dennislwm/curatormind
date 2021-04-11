@@ -31,4 +31,9 @@ title: Crafting
 ## Pitching
 ### The pitch summarises the problem, constraints, solution, rabbit holes, and limitations. The pitch goes to the betting table for consideration.
 ## Betting
+### Before each cycle, we hold a betting table during cool-down where stakeholders decide what to do in the next cycle.
+### Six-week cycle
+#### Some companies use two-week cycles (aka "sprints"). We learned that two weeks is too short to get anything meaningful done.
+####
+### Cool-down
 ## Building
