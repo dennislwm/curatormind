@@ -22,6 +22,12 @@ title: Crafting
 #### It's private
 ### Once we think we've shaped it enough to potentially bet on, we package it with a formal write-up called a pitch.
 ### Handdrawing a rough idea
+#### Places
+#### Affordances
+#### Connection
+#### A place is a thing that you can navigate to, such as menu, dialog etc. Write a word above a line for place, or draw a box.
+#### An affordance is a thing user can act on, like field or button. Write a word under the line to indicate they can be found at that place.
+#### A connection shows how an affordance takes the user from place to place. Draw an arrow from an affordance to a place.
 ## Pitching
 ## Betting
 ## Building
