@@ -34,6 +34,7 @@ title: Crafting
 ### Before each cycle, we hold a betting table during cool-down where stakeholders decide what to do in the next cycle.
 ### Six-week cycle
 #### Some companies use two-week cycles (aka "sprints"). We learned that two weeks is too short to get anything meaningful done.
-####
+#### Within the six-week cycle, you can breakdown the weeks to smaller periods that you can assign to each scope of the project.
 ### Cool-down
+#### If we were to run six-week cycles back to back, there wouldn't be anytime to breathe and think about what's next. Therefore, after each six-week cycle, we schedule two weeks for cool-down.
 ## Building
