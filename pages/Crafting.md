@@ -14,7 +14,13 @@ title: Crafting
 ### When we shape the work, we need to do it at the right level of abstraction
 #### Wireframes are too concrete
 #### Words are too abstract
-###
+### Shaping is to sketch a rough concept, leaving many details out
+#### It's handdrawn-rough
+#### It's why5-solved
+#### It's variable-scoped
+#### It's time-constrainted
+#### It's private
+### Once we think we've shaped it enough to potentially bet on, we package it with a formal write-up called a pitch.
 ## Pitching
 ## Betting
 ## Building
