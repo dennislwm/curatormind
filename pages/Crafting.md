@@ -57,4 +57,8 @@ title: Crafting
 ### Showing progress
 #### In real life, tasks are discovered by getting involved in the problem. That means to-do lists actually grow as the team makes progress.
 #### We came up with a way to see the status of the progress without counting tasks and without numerical estimates. We do that by shifting the focus from what's done or not done to what's unknown and what's solved.
-### Scopes on a hil
+### Scopes on a hill
+#### The scope gives us the language for the project ("Locate", "Reply") and the hill describes the status of each scope ("uphill", "downhill").
+#### For managers, the ability to compare past states is the killer feature. A dot that doesn't move is effectively a raised hand.
+#### Sometimes probing into a stuck scope reveals that it isn't stuck at all. The solution may be to break the scope into smaller scopes.
+#### In addition to seeing where the work stands, we can use a hill chart to sequence the work - which problems to solve in which order.
