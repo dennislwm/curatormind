@@ -11,6 +11,10 @@ title: Crafting
 ### Breaking a project into independent scopes on a hill
 ### Hammering a scope to separate must-haves from nice-to-haves
 ## Shaping
+### When we shape the work, we need to do it at the right level of abstraction
+#### Wireframes are too concrete
+#### Words are too abstract
+###
 ## Pitching
 ## Betting
 ## Building
