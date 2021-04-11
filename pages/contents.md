@@ -15,6 +15,7 @@
 ####
 ###
 ## [[Attack Plan]]
+## [[Craft]]
 ## [[Hypothesis]]
 ## Daily journals
 ### [[Mar 21st, 2021]]
