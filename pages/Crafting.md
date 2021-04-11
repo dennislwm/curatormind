@@ -55,5 +55,6 @@ title: Crafting
 #### Same with the backend. A lot of tasks could be checked off, but without any UI what can you do with it?
 #### What we want is to pick of one slice of the project to integrate. When it's done, anyone can click through the interaction and see if the feature does what it should.
 ### Showing progress
-####
+#### In real life, tasks are discovered by getting involved in the problem. That means to-do lists actually grow as the team makes progress.
+#### We came up with a way to see the status of the progress without counting tasks and without numerical estimates. We do that by shifting the focus from what's done or not done to what's unknown and what's solved.
 ### Scopes on a hil
