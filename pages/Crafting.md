@@ -1,5 +1,5 @@
 ---
-title: Craft
+title: Crafting
 ---
 
 ## Executive
