@@ -51,5 +51,8 @@ title: Crafting
 #### There are almost always a couple of things that don't fit into a scope. We allow ourselves a "Chowder" list for loose tasks that don't fit anywhere.
 #### New tasks constantly come up as you get deeper into a problem. Mark nice-to-haves with tilde (~) in front.
 ### Integrating on slice
+#### The team could start with UI, but until it's wired to a backend, nothing does anything.
+#### Same with the backend. A lot of tasks could be checked off, but without any UI what can you do with it?
+#### What we want is to pick of one slice of the project to integrate. When it's done, anyone can click through the interaction and see if the feature does what it should.
 ### Showing progress
 ### Scopes on a hil
