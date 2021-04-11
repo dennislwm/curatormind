@@ -21,6 +21,7 @@ title: Crafting
 #### It's time-constrainted
 #### It's private
 ### Once we think we've shaped it enough to potentially bet on, we package it with a formal write-up called a pitch.
+### Handdrawing a rough idea
 ## Pitching
 ## Betting
 ## Building
