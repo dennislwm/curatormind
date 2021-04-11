@@ -29,5 +29,6 @@ title: Crafting
 #### An affordance is a thing user can act on, like field or button. Write a word under the line to indicate they can be found at that place.
 #### A connection shows how an affordance takes the user from place to place. Draw an arrow from an affordance to a place.
 ## Pitching
+### The pitch summarises the problem, constraints, solution, rabbit holes, and limitations. The pitch goes to the betting table for consideration.
 ## Betting
 ## Building
