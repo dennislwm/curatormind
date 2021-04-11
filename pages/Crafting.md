@@ -37,4 +37,19 @@ title: Crafting
 #### Within the six-week cycle, you can breakdown the weeks to smaller periods that you can assign to each scope of the project.
 ### Cool-down
 #### If we were to run six-week cycles back to back, there wouldn't be anytime to breathe and think about what's next. Therefore, after each six-week cycle, we schedule two weeks for cool-down.
+### Base case
+#### Our base case is to run six-week cycle with two-week cool-down. Unprecedented case is 12-week cycle with 4-week cool-down.
+#### For a shorter project, use a precedent case of 3-week cycle with 1-week cool-down.
+### What about bugs?
+#### The vast majority of bugs can wait six weeks or longer, and many don't even need to be fixed. You can't ship anything new if you have to fix the whole world first.
 ## Building
+### Assigning project
+#### Since the team was given the project, not tasks, they need to come up with tasks themselves. Here we note an important difference between tasks we think we need to do and tasks we discover we need to do.
+#### The way to really figure out what needs to be done is to start doing real work.
+### Scoping
+#### Scopes are bigger than tasks but much smaller than the overall project. The scopes reflect meaningful parts of the project that can be completed independently and in a short period of time - a few days or less.
+#### There are almost always a couple of things that don't fit into a scope. We allow ourselves a "Chowder" list for loose tasks that don't fit anywhere.
+#### New tasks constantly come up as you get deeper into a problem. Mark nice-to-haves with tilde (~) in front.
+### Integrating on slice
+### Showing progress
+### Scopes on a hil
