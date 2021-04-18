@@ -163,4 +163,94 @@ At this point, you can do anything you want with this branch to determine if the
 
 That's it, you have tested and closed the PR.
 
-## Step 10 - How to Generate SSH Key for GitHub Authorization
+## Step 10 - Move directory from one repository to another with history
+
+Move one directory within a Git repository to root within another repository including its history, i.e. the goal is to move `myDir` into `dstRepo` with its history. 
+
+---
+## Repository Structure
+     srcRepo/                         <-- Root of source repository
+       +- myDir/                      <-- Directory to move
+       +- otherDir/
+
+     dstRepo/                         <-- Root of destination repository
+       +- someDir/
+
+### 1. Prepare the source repository
+
+Clone `srcRepo` (make a copy but don't use your existing one) and delete `origin` repository to avoid accidentally making any remote changes.
+
+```bash
+$ git clone https://github.com/[USER]/srcRepo
+$ cd srcRepo
+$ git remote rm origin
+```
+
+Check that origin has been removed.
+
+```bash
+$ git remote -v
+```
+
+Using `filter-branch`, go through the complete history and remove all commits not related to `myDir`. From the git documentation:
+
+*Only look at the history which touches the given subdirectory. The result will contain that directory (and only that) as its project root.*
+
+```bash
+$ git filter-branch --subdirectory-filter myDir -- --all
+```
+
+*Note: you might need to add `--prune-empty` to avoid empty commits, in my case it was not necessary.*
+
+Check that `srcRepo` contains the contents of `myDir` in root.
+
+```bash
+$ ls
+```
+
+Perform some clean up.
+
+```bash
+$ git reset --hard
+$ git gc --aggressive
+$ git prune
+$ git clean -df
+```
+
+Check that the result is correct.
+
+```bash
+$ git log
+```
+
+### 2. Merge into destination repository
+
+Clone `dstRepo` (make a copy but don't use your existing one) and create a remote connection to `srcRepo` as a branch in `dstRepo`.
+
+```bash
+$ git clone https://github.com/[USER]/dstRepo
+$ cd dstRepo
+$ git remote add <MY-BRANCH-NAME> ../srcRepo
+```
+
+Pull from the branch. Because your branch and master don't have a common base, `git` will refuse to merge them without the `--allow-unrelated-histories` option.
+
+```bash
+$ git pull --allow-unrelated-histories <MY-BRANCH-NAME> master
+```
+
+This will create a merge commit to merge the current HEAD with your branch. Type a commit message into the editor which should appear.
+
+```
+Move myDir from srcRepo to dstRepo into root folder.
+```
+
+After typing a meaningful commit message, proceed to push the changes.
+
+```bash
+$ git push
+```
+
+Clean up by deleting the cloned `srcRepo`, and if everything works, use `git rm` to remove `myDir` from `srcRepo`.
+
+## Step 11 - How to Generate SSH Key for GitHub Authorization
