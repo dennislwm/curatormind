@@ -1,4 +1,5 @@
 - How does this board work?
+  collapsed:: true
 	- When should I use a new note?
 		- Discuss a topic in greater detail.
 		- Discuss a sub-topic.
