@@ -45,11 +45,11 @@
 		  4. Why most kids play roblox
 		-
 		  5. Spinning up a Virtual Machine ["VM"] in Azure, Heroku
+	- Water cycle 🌊
+		-
 	- Tea cycle 🍵
 		-
 	- Coffee cycle ☕
-		-
-	- Water cycle 🌊
 		-
 - Shaping
 	-
