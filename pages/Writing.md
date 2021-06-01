@@ -14,7 +14,13 @@
 			- How do I define success?
 				- Getting a score of 85% for AZ-900 exam
 			- How do I define success?
-				- Achieving
+				- Achieving a result significantly above the passing level of 70%
+			- How do I define success?
+				- Creating a complete learning objectives and writing these as code
+			- How do I define success?
+				- Practicing answer of exam questions and updating these as code
+			- How do I define success?
+				-
 - Unshaped work
 	- Tea cycle
 		- Speed up your open-source workflow with Bash scripting
