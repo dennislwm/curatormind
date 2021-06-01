@@ -66,15 +66,15 @@
 		  5. Spinning up a Virtual Machine ["VM"] in Azure, Heroku
 	- Water appetite 🌊
 		-
-		  2. Your LinkedIn profile is not updated or consistent with your CV
-			- Adding an Acloud.guru credential to your LinkedIn profile
-		-
 		  5. You did not take notes during your interview
 	- Tea appetite 🍵
 		-
 		  1. You aren't squashing your CV
 			- Using `git squash` as an analogy
 			- Using my CV as a case study
+		-
+		  2. Your LinkedIn profile is not updated or consistent with your CV
+			- Adding an Acloud.guru credential to your LinkedIn profile
 		-
 		  4. You don't have a compelling reason or story to tell
 	- Coffee appetite ☕
