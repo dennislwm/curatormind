@@ -42,7 +42,7 @@
 		-
 		  3. Five reasons why you're not getting hired as a DevOps
 		-
-		  4. Why most kids play roblox
+		  4. Why most kids play Roblox
 		-
 		  5. Spinning up a Virtual Machine ["VM"] in Azure, Heroku
 	- Water cycle 🌊
