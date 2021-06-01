@@ -24,7 +24,8 @@
 				- Committing sufficient changes to the code to meet the learning objectives
 			- How do I define success?
 				- Sacrificing countless personal hours to fulfill the learning objectives
-		-
+		- Disembarking on touch down
+		- Embarking
 - Unshaped work
 	- Tea cycle
 		- Speed up your open-source workflow with Bash scripting
