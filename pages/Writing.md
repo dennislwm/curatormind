@@ -77,11 +77,10 @@
 			- Creating a managerial interview note
 	- Tea appetite 🍵
 		-
-		  1. You aren't squashing your CV
-			- Using `git squash` as an analogy
-			- Using my CV as a case study
-		-
 		  2. Your LinkedIn profile is not updated or consistent with your CV
 			- Adding an Acloud.guru credential to your LinkedIn profile
 	- Coffee appetite ☕
 		-
+		  1. You aren't squashing your CV
+			- Using `git squash` as an analogy
+			- Using my CV as a case study
