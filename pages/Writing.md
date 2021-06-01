@@ -10,11 +10,11 @@
 - Unshaped work
 	- Tea cycle
 		- Speed up your open-source workflow with Bash scripting
-	- Unprecedented cycle
+	- Coffee cycle
 		- Create a safe environment to upload your presence online
 		- Mid-career switch
 		- Why most kids play roblox
-	- Precedent cycle
+	- Water cycle
 		- Spinning up a Virtual Machine ["VM"] in Azure, Heroku
 - Shaping
 	-
