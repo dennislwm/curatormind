@@ -25,7 +25,8 @@
 			- How do I define success?
 				- Sacrificing countless personal hours to fulfill the learning objectives
 		- Disembarking after landing
-			-
+			- Practicing answer of questions
+			- Updating the
 		- Embarking before taking off
 - Unshaped work
 	- Tea cycle
