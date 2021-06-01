@@ -1,4 +1,10 @@
--
+- How does this board work?
+	- Executive
+		- Shaping and writing have independent cycles.
+		- Time constraint as appetite for both shaping and writing.
+			-
+		- Making a bet for what to write and honoring it.
+		-
 - Unshaped work
 	- Base cycle
 		- Speed up your open-source workflow with Bash scripting
