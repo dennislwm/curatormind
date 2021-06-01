@@ -62,16 +62,16 @@
 		  4. Why most kids play Roblox
 		-
 		  5. Spinning up a Virtual Machine ["VM"] in Azure, Heroku
-	- Water cycle 🌊
+	- Water appetite 🌊
 		-
 		  2. Your LinkedIn profile is not updated or consistent with your CV
 		-
 		  5. You did not take notes during your interview
-	- Tea cycle 🍵
+	- Tea appetite 🍵
 		-
 		  1. You aren't squashing your CV
 		-
 		  4. You don't have a compelling reason or story to tell
-	- Coffee cycle ☕
+	- Coffee appetite ☕
 		-
 		  3. You have imposter syndrome and are not sending your CV to job descriptions
