@@ -1,0 +1,9 @@
+- Unshaped work
+	- Base cycle
+		- Speed up your open-source workflow with Bash scripting
+	- Unprecedented cycle
+		- Mid-career switch
+		- Why most kids play roblox
+	- Precedent cycle
+		- Spinning up a Virtual Machine ["VM"] in Azure, Heroku
+-
