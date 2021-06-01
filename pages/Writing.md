@@ -73,7 +73,7 @@
 		-
 		  1. You aren't squashing your CV
 			- Using `git squash` as an analogy
-			-
+			- Using my CV as a case study
 		-
 		  4. You don't have a compelling reason or story to tell
 	- Coffee appetite ☕
