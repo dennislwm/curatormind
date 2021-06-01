@@ -10,7 +10,8 @@
 		- Breaking a project into independent scopes on a hill
 		- Hammering a scope to separate must-haves from nice-to-haves
 	- Shaping
-		-
+		- Reaching the right altitude
+			-
 - Unshaped work
 	- Tea cycle
 		- Speed up your open-source workflow with Bash scripting
