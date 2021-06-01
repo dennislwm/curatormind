@@ -34,7 +34,7 @@
 				- Classifying a writing objective as water 🌊 (least), tea 🍵 or coffee ☕ (most personal hours) cycle
 			- Coding should begin with a new page or a daily journal
 - Unshaped work
-	- What to write
+	- Unshaped title
 		- 1.Speed up your open-source workflow with Bash scripting
 		- 2.Create a safe environment to upload your presence online
 		- 3.Mid-career switch
