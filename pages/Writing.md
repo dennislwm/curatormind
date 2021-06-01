@@ -67,7 +67,7 @@
 	- Water appetite 🌊
 		-
 		  5. You did not take notes during your interview
-			- Creating
+			- Creating a
 	- Tea appetite 🍵
 		-
 		  1. You aren't squashing your CV
