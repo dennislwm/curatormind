@@ -11,6 +11,7 @@
 		- Hammering a scope to separate must-haves from nice-to-haves
 	- Shaping
 		- Reaching the right altitude
+		  collapsed:: true
 			- How do I define success?
 				- Getting a score of 85% for AZ-900 exam
 			- How do I define success?
@@ -23,6 +24,7 @@
 				- Committing sufficient changes to the code to meet the learning objectives
 			- How do I define success?
 				- Sacrificing countless personal hours to fulfill the learning objectives
+		-
 - Unshaped work
 	- Tea cycle
 		- Speed up your open-source workflow with Bash scripting
