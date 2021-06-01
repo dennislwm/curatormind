@@ -35,11 +35,16 @@
 			- Coding should begin with a new page or a daily journal
 - Unshaped work
 	- Unshaped title
-		- 1.Speed up your open-source workflow with Bash scripting
-		- 2.Create a safe environment to upload your presence online
-		- 3.Mid-career switch
-		- 4.Why most kids play roblox
-		- 5.Spinning up a Virtual Machine ["VM"] in Azure, Heroku
+		-
+		  1. Speed up your open-source workflow with Bash scripting
+		-
+		  2. Create a safe environment to upload your presence online
+		-
+		  3. Mid-career switch
+		-
+		  4. Why most kids play roblox
+		-
+		  5. Spinning up a Virtual Machine ["VM"] in Azure, Heroku
 	- Tea cycle 🍵
 		-
 	- Coffee cycle ☕
