@@ -20,7 +20,9 @@
 			- How do I define success?
 				- Practicing answer of exam questions and updating these as code
 			- How do I define success?
-				-
+				- Committing sufficient changes to the code to meet the learning objectives
+			- How do I define success?
+				- Sacrificing countless personal hours to fulfill the learning objectives
 - Unshaped work
 	- Tea cycle
 		- Speed up your open-source workflow with Bash scripting
