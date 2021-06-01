@@ -67,6 +67,7 @@
 	- Water appetite 🌊
 		-
 		  3. You have imposter syndrome and are not sending your CV to job descriptions
+			- Look for JDs that is an entry level position and don't be concern with any required number of years of experience
 			-
 		-
 		  4. You don't have a compelling reason or story to tell
@@ -84,5 +85,5 @@
 			- Adding an Acloud.guru credential to your LinkedIn profile
 	- Coffee appetite ☕
 		-
-			- Look for JDs that is an entry level position and don't be concern with any required number of years of experience
-			- Keep a copy as reference of JDs that you applied for the interview
+			-
+			-
