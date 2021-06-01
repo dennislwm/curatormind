@@ -26,7 +26,7 @@
 				- Sacrificing countless personal hours to fulfill the learning objectives
 		- Disembarking after landing
 			- Practicing answer of questions
-			- Updating the
+			- Updating as code
 		- Embarking before taking off
 - Unshaped work
 	- Tea cycle
