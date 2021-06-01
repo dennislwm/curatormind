@@ -6,7 +6,7 @@
 			- Tea appetite
 			- Coffee appetite
 		- Making a bet for what to write and honoring it.
-		- Choosing either water 🌊, tea or coffee appetite length with cool-down
+		- Choosing either water 🌊, tea or coffee ☕ appetite length with cool-down
 			- Water 🌊:
 		- Breaking a project into independent scopes on a hill
 		- Hammering a scope to separate must-haves from nice-to-haves
@@ -32,7 +32,7 @@
 				- Answering of summary questions should begin with a daily journal
 		- Embarking before taking off
 			- Shaping all writing objectives with two levels of depth should begin with a new page
-				- Classifying a writing objective as water 🌊 (least <2), tea 🍵 or coffee ☕ (most personal hours >6) appetite
+				- Classifying a writing objective as water 🌊, tea 🍵 or coffee ☕ appetite
 			- Coding should begin with a new page
 		- Choosing an objective
 		  collapsed:: true
