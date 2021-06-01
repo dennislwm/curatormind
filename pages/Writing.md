@@ -47,8 +47,9 @@
 		  5. Spinning up a Virtual Machine ["VM"] in Azure, Heroku
 	- Water cycle 🌊
 		-
-		  1. You aren't squashing your CV
+		  2. Your LinkedIn profile is not updated or consistent with
 	- Tea cycle 🍵
 		-
+		  1. You aren't squashing your CV
 	- Coffee cycle ☕
 		-
