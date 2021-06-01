@@ -7,6 +7,7 @@
 			- Coffee appetite
 		- Making a bet for what to write and honoring it.
 		- Choosing either water, tea or coffee appetite length with cool-down
+			-
 		- Breaking a project into independent scopes on a hill
 		- Hammering a scope to separate must-haves from nice-to-haves
 	- Shaping
