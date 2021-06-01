@@ -83,4 +83,4 @@
 		-
 		  3. You have imposter syndrome and are not sending your CV to job descriptions
 			- Look for JDs that is an entry level position and don't be concern with any required number of years of experience
-			- Keep a copy as reference of JDs that you applied for
+			- Keep a copy as reference of JDs that you applied for in the event that you get an interview
