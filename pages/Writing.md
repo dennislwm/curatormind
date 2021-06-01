@@ -6,7 +6,7 @@
 			- Tea appetite
 			- Coffee appetite
 		- Making a bet for what to write and honoring it.
-		- Choosing either water 🌊, tea 🍵 or coffee ☕ appetite length with cool-down
+		- Choosing either water 🌊, tea 🍵 or coffee ☕ appetite length with a cool-down of one-third period
 			- Water 🌊: 3 hours
 			- Tea 🍵: 6 hours
 			- Coffee ☕: 12 hours
