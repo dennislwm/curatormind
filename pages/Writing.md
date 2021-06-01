@@ -35,7 +35,9 @@
 			- Shaping all writing objectives with two levels of depth should begin with a new page
 				- Classifying a writing objective as water 🌊 (least <2), tea 🍵 or coffee ☕ (most personal hours >6) cycle
 			- Coding should begin with a new page
-	-
+		- Choosing an objective
+			- Open people's eyes by proving the status quo wrong.
+			-
 - Unshaped work
 	- Unshaped title
 		-
