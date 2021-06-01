@@ -26,6 +26,7 @@
 			- How do I define success?
 				- Sacrificing countless personal hours to fulfill the learning objectives
 		- Disembarking after landing
+		  collapsed:: true
 			- Updating at least one writing objective as code
 			- Practicing answer of summary questions
 				- Answering of summary questions should begin with a daily journal
