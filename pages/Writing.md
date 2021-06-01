@@ -34,6 +34,7 @@
 				- Classifying a writing objective as water 🌊 (least), tea 🍵 or coffee ☕ (most personal hours) cycle
 			- Coding should begin with a new page or a daily journal
 - Unshaped work
+	- Unbet
 	- Tea cycle 🍵
 		- Speed up your open-source workflow with Bash scripting
 	- Coffee cycle ☕
