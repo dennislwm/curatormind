@@ -30,7 +30,7 @@
 		- Embarking before taking off
 			- Shaping should begin with a new page
 			- Shaping all writing objectives with two levels of depth
-			- Coding should begin with a new page or fresh daily journal
+			- Coding should begin with a new page or a daily journal
 - Unshaped work
 	- Tea cycle
 		- Speed up your open-source workflow with Bash scripting
