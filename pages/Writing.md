@@ -28,8 +28,8 @@
 			- Updating at least one writing objective as code
 			- Practicing answer of summary questions
 		- Embarking before taking off
+			- Shaping should begin with a new
 			- Shaping each writing objective as two levels of depth
-			-
 - Unshaped work
 	- Tea cycle
 		- Speed up your open-source workflow with Bash scripting
