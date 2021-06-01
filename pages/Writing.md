@@ -31,16 +31,16 @@
 		- Embarking before taking off
 			- Shaping should begin with a new page
 			- Shaping all writing objectives with two levels of depth
-				- Classifying a writing objective as water 🌊, tea 🍵 or coffee ☕ cycle
+				- Classifying a writing objective as water 🌊 (least), tea 🍵 or coffee ☕ (most personal hours)
 			- Coding should begin with a new page or a daily journal
 - Unshaped work
-	- Tea cycle
+	- Tea cycle 🍵
 		- Speed up your open-source workflow with Bash scripting
-	- Coffee cycle
+	- Coffee cycle ☕
 		- Create a safe environment to upload your presence online
 		- Mid-career switch
 		- Why most kids play roblox
-	- Water cycle
+	- Water cycle 🌊
 		- Spinning up a Virtual Machine ["VM"] in Azure, Heroku
 - Shaping
 	-
