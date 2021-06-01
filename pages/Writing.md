@@ -53,4 +53,4 @@
 		  1. You aren't squashing your CV
 	- Coffee cycle ☕
 		-
-		  3. You have imposter syndrome and are not sending your CV to enough companies
+		  3. You have imposter syndrome and are not sending your CV to job descriptions
