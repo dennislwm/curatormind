@@ -31,9 +31,11 @@
 			- Practicing answer of summary questions
 				- Answering of summary questions should begin with a daily journal
 		- Embarking before taking off
+		  collapsed:: true
 			- Shaping all writing objectives with two levels of depth should begin with a new page
 				- Classifying a writing objective as water 🌊 (least <2), tea 🍵 or coffee ☕ (most personal hours >6) cycle
 			- Coding should begin with a new page
+	-
 - Unshaped work
 	- Unshaped title
 		-
