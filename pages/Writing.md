@@ -28,7 +28,7 @@
 			- Updating at least one learning objective as code
 			- Practicing answer of summary questions
 		- Embarking before taking off
-			-
+			- Creating two levels of
 - Unshaped work
 	- Tea cycle
 		- Speed up your open-source workflow with Bash scripting
