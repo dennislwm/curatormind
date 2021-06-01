@@ -78,7 +78,7 @@
 	- Tea appetite 🍵
 		-
 		  2. Your LinkedIn profile is not updated or consistent with your CV
-			- Add an Acloud.guru credential to your LinkedIn profile
+			- Add any Acloud.guru credential to your LinkedIn profile
 	- Coffee appetite ☕
 		-
 		  1. You aren't squashing your CV
