@@ -30,6 +30,7 @@
 		- Embarking before taking off
 			- Shaping should begin with a new page
 			- Shaping all writing objectives with two levels of depth
+			- Coding
 - Unshaped work
 	- Tea cycle
 		- Speed up your open-source workflow with Bash scripting
