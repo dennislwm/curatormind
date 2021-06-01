@@ -6,4 +6,5 @@
 		- Why most kids play roblox
 	- Precedent cycle
 		- Spinning up a Virtual Machine ["VM"] in Azure, Heroku
--
+- Shaping
+	-
