@@ -73,14 +73,14 @@
 		  4. You don't have a compelling reason or story to tell
 		-
 		  5. You did not take notes during your interview
-			- Creating a technical interview note
-			- Creating a managerial interview note
+			- Create a technical interview note
+			- Create a managerial interview note
 	- Tea appetite 🍵
 		-
 		  2. Your LinkedIn profile is not updated or consistent with your CV
-			- Adding an Acloud.guru credential to your LinkedIn profile
+			- Add an Acloud.guru credential to your LinkedIn profile
 	- Coffee appetite ☕
 		-
 		  1. You aren't squashing your CV
-			- Using `git squash` as an analogy
-			- Using my CV as a case study
+			- Use `git squash` as an analogy
+			- Use my CV as a case study
