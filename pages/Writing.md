@@ -36,8 +36,21 @@
 				- Classifying a writing objective as water 🌊 (least <2), tea 🍵 or coffee ☕ (most personal hours >6) cycle
 			- Coding should begin with a new page
 		- Choosing an objective
+		  collapsed:: true
 			- Open people's eyes by proving the status quo wrong.
-			-
+			- Articulate something everyone's thinking about but no one is saying. Cut through the noise.
+			- Identify key trends on a topic. Use them to predict the future.
+			- Contribute original insights through research and implementation.
+			- Distill an overwhelming topic into something approachable.
+			- Share a solution to a tough problem.
+			- Tell a suspenseful and emotional story that imparts a lesson.
+			- Ask the five Whys?
+		- Pairing a motivation
+		  collapsed:: true
+			- Does writing this article get something off your chest?
+			- Does it help reason through a nagging, unsolved problem you have?
+			- Does it persuade others to do something you believe is important?
+			- Do you obsess over the topic and want others to geek out over it too?
 - Unshaped work
 	- Unshaped title
 		-
