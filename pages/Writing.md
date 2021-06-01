@@ -31,7 +31,7 @@
 		- Embarking before taking off
 			- Shaping should begin with a new page
 			- Shaping all writing objectives with two levels of depth
-				- Classifying a writing objective as water 🌊 (least), tea 🍵 or coffee ☕ (most personal hours) cycle
+				- Classifying a writing objective as water 🌊 (least), tea 🍵 or coffee ☕ (most personal hours >) cycle
 			- Coding should begin with a new page or a daily journal
 - Unshaped work
 	- Unshaped title
