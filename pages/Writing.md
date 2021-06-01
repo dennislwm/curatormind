@@ -47,9 +47,10 @@
 		  5. Spinning up a Virtual Machine ["VM"] in Azure, Heroku
 	- Water cycle 🌊
 		-
-		  2. Your LinkedIn profile is not updated or consistent with
+		  2. Your LinkedIn profile is not updated or consistent with your CV
 	- Tea cycle 🍵
 		-
 		  1. You aren't squashing your CV
 	- Coffee cycle ☕
 		-
+		  3. You have imposter syndrome and are not sending your CV to enough companies
