@@ -82,4 +82,4 @@
 	- Coffee appetite ☕
 		-
 		  3. You have imposter syndrome and are not sending your CV to job descriptions
-			- Don't be too concern with JDs that require a minimum number of years
+			- Look for JDs that have entry level JDs that require a minimum number of years
