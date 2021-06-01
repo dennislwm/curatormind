@@ -27,6 +27,7 @@
 		- Disembarking after landing
 			- Updating at least one writing objective as code
 			- Practicing answer of summary questions
+				-
 		- Embarking before taking off
 			- Shaping should begin with a new page
 			- Shaping all writing objectives with two levels of depth
