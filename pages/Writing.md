@@ -25,10 +25,10 @@
 			- How do I define success?
 				- Sacrificing countless personal hours to fulfill the learning objectives
 		- Disembarking after landing
-			- Updating at least one learning objective as code
+			- Updating at least one writing objective as code
 			- Practicing answer of summary questions
 		- Embarking before taking off
-			- Creating two levels of depth as learning objectives
+			- Shaping each writing objective as two levels of depth
 			-
 - Unshaped work
 	- Tea cycle
