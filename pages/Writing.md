@@ -67,7 +67,7 @@
 	- Water appetite 🌊
 		-
 		  2. Your LinkedIn profile is not updated or consistent with your CV
-			- Adding
+			- Adding an Acloud.guru credential to your LinkedIn profile
 		-
 		  5. You did not take notes during your interview
 	- Tea appetite 🍵
