@@ -47,6 +47,7 @@
 		  5. Spinning up a Virtual Machine ["VM"] in Azure, Heroku
 	- Water cycle 🌊
 		-
+		  1. You aren't squashing your CV
 	- Tea cycle 🍵
 		-
 	- Coffee cycle ☕
