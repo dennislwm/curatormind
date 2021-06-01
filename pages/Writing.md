@@ -2,7 +2,9 @@
 	- Executive
 		- Shaping and writing have independent cycles.
 		- Time constraint as appetite for both shaping and writing.
-			-
+			- Water appetite
+			- Tea appetite
+			- Coffee appetite
 		- Making a bet for what to write and honoring it.
 		-
 - Unshaped work
