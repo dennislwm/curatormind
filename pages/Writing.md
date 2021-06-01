@@ -25,7 +25,8 @@
 			- How do I define success?
 				- Sacrificing countless personal hours to fulfill the learning objectives
 		- Disembarking after landing
-			- Practicing answer of questions
+			- Updating as learning objective as code
+			- Practicing answer of summary questions
 			- Updating as code
 		- Embarking before taking off
 - Unshaped work
