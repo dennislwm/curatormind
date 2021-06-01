@@ -8,7 +8,7 @@
 		- Making a bet for what to write and honoring it.
 		-
 - Unshaped work
-	- Base cycle
+	- Tea cycle
 		- Speed up your open-source workflow with Bash scripting
 	- Unprecedented cycle
 		- Create a safe environment to upload your presence online
