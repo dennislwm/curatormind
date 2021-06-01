@@ -40,7 +40,7 @@
 		-
 		  2. Create a safe environment to upload your presence online
 		-
-		  3. Mid-career switch
+		  3. Five reasons why you're not getting hired as a DevOps
 		-
 		  4. Why most kids play roblox
 		-
