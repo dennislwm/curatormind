@@ -13,7 +13,8 @@
 		- Reaching the right altitude
 			- How do I define success?
 				- Getting a score of 85% for AZ-900 exam
-				-
+			- How do I define success?
+				- Achieving
 - Unshaped work
 	- Tea cycle
 		- Speed up your open-source workflow with Bash scripting
