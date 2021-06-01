@@ -9,7 +9,7 @@
 		- Choosing either water 🌊, tea 🍵 or coffee ☕ appetite length with cool-down
 			- Water 🌊: 3 hours
 			- Tea 🍵: 6 hours
-			- Coffee
+			- Coffee ☕: 12 hours
 		- Breaking a project into independent scopes on a hill
 		- Hammering a scope to separate must-haves from nice-to-haves
 	- Shaping
