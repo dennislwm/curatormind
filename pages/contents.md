@@ -19,7 +19,6 @@
 - [[Crafting]]
 - [[Hypothesis]]
 - Daily journals
-	- [[Jun 2nd, 2021]]
 	- [[Jun 1st, 2021]]
 	- [[Mar 21st, 2021]]
 	- [[Mar 18th, 2021]]
