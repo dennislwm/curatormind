@@ -1,6 +1,5 @@
 - How does this board work?
 	- Executive
-	  collapsed:: true
 		- Shaping and writing have independent cycles.
 		- Time constraint as appetite for both shaping and writing.
 		  collapsed:: true
