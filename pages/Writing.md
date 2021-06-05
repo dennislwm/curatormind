@@ -59,8 +59,10 @@
 			- Updating status on Twitter
 		- Medium form
 			- Scheduling in-video on Zoom, Discord, Whatsapp
+			- Onboarding members on Substack
 			- Presenting video on Vadootv, YouTube
 		- Long form
+			- Coding source on GitHub
 			- Writing blog on Netlify, Medium, Dev.to
 	- Updating status
 		- Twitter (3 Safe)
