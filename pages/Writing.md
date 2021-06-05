@@ -54,7 +54,6 @@
 			- Does it persuade others to do something you believe is important?
 			- Do you obsess over the topic and want others to geek out over it too?
 - Execution
-  collapsed:: true
 	- Showing up
 		- Short form
 			- Updating status on Twitter
