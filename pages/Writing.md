@@ -56,7 +56,7 @@
 - Embarking
 	- Writing blog
 		- Draft a section in Markdown file
-		- Save the file with a naming convention `001-01-section-title`
+		- Save the file with a naming convention `001-01-section-title`, where `001` is article number and `01` is section number
 - Execution
 	- Showing up
 		- Short form
