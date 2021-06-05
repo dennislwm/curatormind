@@ -101,15 +101,13 @@
 - Unshaped work
 	- Unshaped title
 		-
-		  1. Speed up your open-source workflow with Bash scripting
+		  1. Five reasons why you're not getting hired as a DevOps
 		-
-		  2. Create a safe environment to upload your presence online
+		  2. Speed up your open-source workflow with Bash scripting
 		-
-		  3. Five reasons why you're not getting hired as a DevOps
+		  3. Create a safe environment to upload your presence online
 		-
-		  4. Why most kids play Roblox
-		-
-		  5. Spinning up a Virtual Machine ["VM"] in Azure, Heroku
+		  4. Spinning up a Virtual Machine ["VM"] in Azure, Heroku
 	- Water appetite 🌊
 		-
 		  2. Your LinkedIn profile is not updated or consistent with your CV
