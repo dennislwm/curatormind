@@ -73,7 +73,7 @@
 		- Dev.to (3 Safe)
 		- 750 words or 3 pages
 	- Presenting video lessons
-		- Vadootv ()
+		- Vadootv (2 Safer)
 		- YouTube (6 Unsafest)
 - Unshaped work
 	- Unshaped title
