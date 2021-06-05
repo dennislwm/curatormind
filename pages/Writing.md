@@ -58,6 +58,7 @@
 		- Short form
 			- Updating status on Twitter
 		- Medium form
+			- Scheduling in-video on Zoom, Discord, Whatsapp
 			- Presenting video on Vadootv, YouTube
 		- Long form
 			- Writing blog on Netlify, Medium, Dev.to
