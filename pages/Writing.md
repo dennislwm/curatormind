@@ -66,7 +66,6 @@
 			- Writing blog on Netlify, Medium, Dev.to
 	- Updating status
 		- Twitter (3 Safe)
-	- 250 words
 	- Scheduling in-video
 		- Zoom (2 Safer)
 		- Discord (3 Safe)
