@@ -58,6 +58,7 @@
 		- Short form
 			- Updating status on Twitter
 		- Medium form
+			- Updating members on ??
 			- Scheduling in-video on Zoom, Discord, Whatsapp
 			- Onboarding members on Substack
 			- Presenting video on Vadootv, YouTube
