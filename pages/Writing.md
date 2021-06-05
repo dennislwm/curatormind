@@ -56,6 +56,7 @@
 			- Do you obsess over the topic and want others to geek out over it too?
 - Execution
 	- Showing up
+	  collapsed:: true
 		- Short form
 			- Updating status on Twitter
 		- Medium form
@@ -68,6 +69,7 @@
 			- Landing page on fxgit.work, Brizy
 			- Coding source on GitHub
 			- Writing blog on Netlify, Medium, Dev.to
+	-
 	- Updating status
 		- Twitter (3 Safe)
 	- Scheduling in-video
