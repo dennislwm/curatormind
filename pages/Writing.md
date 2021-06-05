@@ -56,7 +56,7 @@
 - Execution
 	- Showup
 	- Twitter
-	- Reddit
+	-
 	- Blog
 - Unshaped work
 	- Unshaped title
