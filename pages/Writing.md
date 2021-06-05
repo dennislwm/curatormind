@@ -58,7 +58,7 @@
 		- Short form
 			- Updating status on Twitter
 		- Medium form
-			- Autoresponding breakdowns on ??
+			- Autoresponding breakdowns on SendFox
 			- Scheduling in-video on MeetFox, Zoom, Discord, Whatsapp
 			- Onboarding members on Substack
 			- Presenting video on Vadootv, YouTube
