@@ -59,7 +59,7 @@
 			- Updating status on Twitter
 		- Medium form
 		- Long form
-			- Writing blog
+			- Writing blog on Netlify, Medium, Dev.to
 	- Updating status
 		- Twitter (3 Safe)
 	- 250 words
@@ -75,7 +75,6 @@
 		- Netlify (1 Safest)
 		- Medium (2 Safer)
 		- Dev.to (3 Safe)
-		- 750 words or 3 pages
 	- Presenting videos
 		- Vadootv (2 Safer)
 		- YouTube (6 Unsafest)
