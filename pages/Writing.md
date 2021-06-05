@@ -59,7 +59,7 @@
 			- Updating status on Twitter
 		- Medium form
 			- Microlanding page on LinkJoy
-			- Autoresponding breakdowns on SendFox
+			- Autoresponding breakdowns on SendFox, Sendinblue
 			- Scheduling in-video on MeetFox, Zoom, Discord, Whatsapp
 			- Onboarding members on Substack
 			- Presenting video on Vadootv, YouTube
