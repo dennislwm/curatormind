@@ -69,12 +69,14 @@
 	- Water appetite 🌊
 		-
 		  2. Your LinkedIn profile is not updated or consistent with your CV
+			- Edit your `Intro`
+				- Headline should be about what you're aspiring to be
 			- Create an `About` section
 				- Similar to your learners profile
 			- Add your `GitHub` link.
+			- Enable `Show recruiters you're open to work`
 			- Your LinkedIn profile may be longer than your CV, such as certifications, skills and accomplishments
 				- Add any Acloud.guru credentials to your LinkedIn profile
-			- Enable `Show recruiters you're open to work`
 		-
 		  3. You have imposter syndrome and are not sending your CV to job descriptions
 			- Look for JDs that is an entry level position and don't be concern with any required number of years of experience
