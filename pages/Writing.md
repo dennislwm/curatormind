@@ -57,7 +57,7 @@
 	- Writing blog
 		- Draft a section in Markdown file
 		- Name file using convention `001-01-section-title`, where `001` is article number and `01` is section number
-		- Save file in  [curatormind](https://github.com/dennislwm/curatormind) repo
+		- Save file under `Autoresponder` folder within the GitHub repo [curatormind](https://github.com/dennislwm/curatormind)
 - Execution
 	- Showing up
 		- Short form
