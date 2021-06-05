@@ -68,6 +68,7 @@
 		  5. Spinning up a Virtual Machine ["VM"] in Azure, Heroku
 	- Water appetite 🌊
 		-
+		  collapsed:: true
 		  2. Your LinkedIn profile is not updated or consistent with your CV
 			- Edit your `Intro`
 				- Headline should be about what you're aspiring to be
