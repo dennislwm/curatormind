@@ -80,6 +80,7 @@
 			- Enable `Show recruiters you're open to work`
 			- Your LinkedIn profile may be longer than your CV, such as certifications, skills and accomplishments
 				- Add any Acloud.guru credentials to your LinkedIn profile
+				- Large database of education providers
 		-
 		  3. You have imposter syndrome and are not sending your CV to job descriptions
 			- Look for JDs that is an entry level position and don't be concern with any required number of years of experience
