@@ -72,6 +72,9 @@
 		- Medium (2 Safer)
 		- Dev.to (3 Safe)
 		- 750 words or 3 pages
+	- Presenting video lessons
+		-
+		- YouTube (6 Unsafest)
 - Unshaped work
 	- Unshaped title
 		-
