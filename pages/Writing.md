@@ -56,12 +56,14 @@
 - Execution
 	- Showup
 		- Safe environment
-	- Twitter
+	- Updating status
+		- Twitter (3 Safe)
 	- 250 words
 	- YouTube
 	- Scheduling in-video
 		- Zoom (2 Safer)
 		- Discord (3 Safe)
+		- Whatsapp (3 Safe)
 	- Onboarding members
 		- Substack (2 Safer)
 	- Coding source
