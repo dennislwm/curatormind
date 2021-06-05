@@ -73,6 +73,7 @@
 				- Headline should be about what you're aspiring to be
 				- Add `current position`
 				- Show `education`
+				- Don't display your personal contact information
 			- Create an `About` section
 				- Similar to your learners profile
 			- Add your `GitHub` link.
