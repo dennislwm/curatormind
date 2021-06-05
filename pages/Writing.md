@@ -61,7 +61,7 @@
 		- Save file under `Autoresponder` folder within the GitHub repo [curatormind](https://github.com/dennislwm/curatormind)
 	- Writing blog
 		- Compile breakdowns from `Autoresponder` folder into a single Markdown file using VSC editor.
-		- Save file under folder within the GitHub repo [netlify-hugo-dennislwm](https://github.com/dennislwm/netlify-hugo-dennislwm)
+		- Save file under folder within the GitHub repo [netlify-hugo-tldr](https://github.com/dennislwm/netlify-hugo-dennislwm)
 - Execution
 	- Showing up
 		- Short form
