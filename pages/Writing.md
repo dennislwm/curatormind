@@ -59,13 +59,15 @@
 	- Twitter
 	- 250 words
 	- YouTube
+	- Scheduling in-video
+		- Zoom (2 Safer)
 	- Onboarding members
-		- Substack (2 Safe)
+		- Substack (2 Safer)
 	- Coding source
-		- GitHub (2 Safe)
+		- GitHub (2 Safer)
 	- Blog articles
 		- Netlify (1 Safest)
-		- Medium (2 Safe)
+		- Medium (2 Safer)
 		- 750 words (3 pages)
 - Unshaped work
 	- Unshaped title
