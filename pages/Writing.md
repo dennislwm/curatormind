@@ -87,4 +87,5 @@
 			- Use `git squash` as an analogy
 			- Use Marissa Mayer resume as an example
 				- Early in your career, adding work experiences is nice, while later in your career squashing your work experience is better.
+				- Adding work experiences is good because it lets you
 			- Use my CV as a case study
