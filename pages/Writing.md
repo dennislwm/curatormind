@@ -86,5 +86,5 @@
 		  1. You aren't squashing your CV
 			- Use `git squash` as an analogy
 			- Use Marissa Mayer resume as an example
-				- Early in your career,
+				- Early in your career, adding work experiences
 			- Use my CV as a case study
