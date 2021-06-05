@@ -69,6 +69,7 @@
 	- Water appetite 🌊
 		-
 		  2. Your LinkedIn profile is not updated or consistent with your CV
+			- About section
 			- Add any Acloud.guru credentials to your LinkedIn profile
 		-
 		  3. You have imposter syndrome and are not sending your CV to job descriptions
