@@ -77,6 +77,9 @@
 		- Substack (2 Safer)
 	- Coding source
 		- GitHub (2 Safer)
+	- Landing page
+		- Fxgit.work (1 Safest)
+		- LinkJoy (2 Safer)
 	- Writing blog
 		- Netlify (1 Safest)
 		- Medium (2 Safer)
