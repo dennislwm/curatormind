@@ -85,5 +85,5 @@
 		-
 		  1. You aren't squashing your CV
 			- Use `git squash` as an analogy
-				-
+			-
 			- Use my CV as a case study
