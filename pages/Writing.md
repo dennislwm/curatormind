@@ -85,7 +85,7 @@
 		-
 		  1. You aren't squashing your CV
 			- Use `git squash` as an analogy
-				- Definition of `git squash` from Gitconnected article
+				- Definition of `git squash` from Internet:
 					-
 					  > Git squash is a technique that helps you to take a series of commits and condense it to a few commits.
 			- Use Marissa Mayer resume as an example
