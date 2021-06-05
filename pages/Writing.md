@@ -60,13 +60,10 @@
 	- 250 words
 	- YouTube
 	- Coding source
-		- GitHub
-		-
-		  2. Safe
+		- GitHub (2 Safe)
 	- Blog articles
-		- Netlify
-		-
-		  1. Safest
+		- Netlify (1 Safest)
+		- Medium (2 Safe)
 		- 750 words (3 pages)
 - Unshaped work
 	- Unshaped title
