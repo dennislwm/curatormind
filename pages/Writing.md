@@ -58,6 +58,7 @@
 		- Short form
 			- Updating status on Twitter
 		- Medium form
+			- Presenting video on Vadootv, YouTube
 		- Long form
 			- Writing blog on Netlify, Medium, Dev.to
 	- Updating status
