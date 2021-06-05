@@ -1,5 +1,4 @@
 - How does this board work?
-  collapsed:: true
 	- Executive
 		- Shaping and writing have independent cycles.
 		- Time constraint as appetite for both shaping and writing.
@@ -60,6 +59,7 @@
 		  collapsed:: true
 			- Updating status on Twitter
 		- Medium form
+		  collapsed:: true
 			- Microlanding page on LinkJoy
 			- Autoresponding breakdowns on SendFox, Sendinblue
 			- Scheduling in-video on MeetFox, Zoom, Discord, Whatsapp
