@@ -54,8 +54,7 @@
 			- Does it persuade others to do something you believe is important?
 			- Do you obsess over the topic and want others to geek out over it too?
 - Execution
-	- Showup
-		- Safe environment
+	- Showing up
 	- Updating status
 		- Twitter (3 Safe)
 	- 250 words
