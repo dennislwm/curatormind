@@ -56,6 +56,7 @@
 - Embarking
 	- Writing blog
 		- Draft a section in Markdown file
+		- Save the file
 - Execution
 	- Showing up
 		- Short form
