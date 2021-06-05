@@ -59,7 +59,10 @@
 	- Twitter
 	- 250 words
 	- YouTube
-	- Blog (750 words)
+	- Writing blog articles
+		- Netlify
+		- Safest
+		- 750 words (3 pages)
 - Unshaped work
 	- Unshaped title
 		-
