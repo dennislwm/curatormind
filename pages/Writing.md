@@ -55,6 +55,9 @@
 			- Do you obsess over the topic and want others to geek out over it too?
 - Execution
 	- Showing up
+		- Short form
+		- Medium form
+		- Long form
 	- Updating status
 		- Twitter (3 Safe)
 	- 250 words
