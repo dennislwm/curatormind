@@ -59,6 +59,8 @@
 	- Twitter
 	- 250 words
 	- YouTube
+	- Onboarding members
+		- Substack (2 Safe)
 	- Coding source
 		- GitHub (2 Safe)
 	- Blog articles
