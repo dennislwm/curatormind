@@ -56,7 +56,7 @@
 - Embarking
 	- Writing blog
 		- Draft a section in a Markdown file using VSC editor.
-		- Name the file using convention `001-01-section-title`, where `001` is article number and `01` is section number
+		- Name the file using convention `001-01-section-title`, where `001` is article number and `01` is section number.
 		- Save file under `Autoresponder` folder within the GitHub repo [curatormind](https://github.com/dennislwm/curatormind)
 - Execution
 	- Showing up
