@@ -72,7 +72,7 @@
 		- Medium (2 Safer)
 		- Dev.to (3 Safe)
 		- 750 words or 3 pages
-	- Presenting video lessons
+	- Presenting videos
 		- Vadootv (2 Safer)
 		- YouTube (6 Unsafest)
 - Unshaped work
