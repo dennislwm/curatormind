@@ -55,7 +55,8 @@
 			- Do you obsess over the topic and want others to geek out over it too?
 - Execution
 	- Showup
-	-
+	- Water execution
+	- Tea execution
 - Unshaped work
 	- Unshaped title
 		-
