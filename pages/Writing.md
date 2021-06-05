@@ -65,7 +65,6 @@
 - Execution
 	- Showing up
 		- Short form
-		  collapsed:: true
 			- Updating status on Twitter
 		- Medium form
 			- Microlanding page on LinkJoy
