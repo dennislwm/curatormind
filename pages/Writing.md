@@ -56,8 +56,10 @@
 - Execution
 	- Showing up
 		- Short form
+			- Updating status on Twitter
 		- Medium form
 		- Long form
+			- Writing blog
 	- Updating status
 		- Twitter (3 Safe)
 	- 250 words
@@ -69,7 +71,7 @@
 		- Substack (2 Safer)
 	- Coding source
 		- GitHub (2 Safer)
-	- Blog articles
+	- Writing blog
 		- Netlify (1 Safest)
 		- Medium (2 Safer)
 		- Dev.to (3 Safe)
