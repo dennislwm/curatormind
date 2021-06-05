@@ -85,10 +85,9 @@
 		-
 		  1. You aren't squashing your CV
 			- Use `git squash` as an analogy
-				- Definition of `git squash`
+				- Definition of `git squash` from
 					-
-					  > adsfs
-					-
+					  > Git squash is a technique that helps you to take a series of commits and condense it to a few commits.
 			- Use Marissa Mayer resume as an example
 				- Early in your career, adding work experiences is nice, while later in your career squashing your work experience is better.
 				- Adding work experiences is good because it lets you display your skills and responsibilities
