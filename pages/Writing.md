@@ -56,8 +56,8 @@
 - Execution
 	- Showup
 	- Twitter
-	-
-	- Blog
+	- 250 words
+	- Blog (750 words)
 - Unshaped work
 	- Unshaped title
 		-
