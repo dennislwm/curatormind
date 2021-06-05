@@ -55,7 +55,7 @@
 			- Do you obsess over the topic and want others to geek out over it too?
 - Embarking
 	- Writing blog
-		-
+		- Draft a section in Markdown file
 - Execution
 	- Showing up
 		- Short form
