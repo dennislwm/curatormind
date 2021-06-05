@@ -58,6 +58,7 @@
 		- Short form
 			- Updating status on Twitter
 		- Medium form
+			- Microlanding page on Linkjoy
 			- Autoresponding breakdowns on SendFox
 			- Scheduling in-video on MeetFox, Zoom, Discord, Whatsapp
 			- Onboarding members on Substack
