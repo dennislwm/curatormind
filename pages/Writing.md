@@ -73,7 +73,7 @@
 			- Add your GitHub link.
 			- Add any Acloud.guru credentials to your LinkedIn profile
 			- Your LinkedIn profile may be longer than your CV, such as certifications, skills and accomplishments
-			- Enable `Show recruiters you're available for work`
+			- Enable `Show recruiters you're open to work`
 		-
 		  3. You have imposter syndrome and are not sending your CV to job descriptions
 			- Look for JDs that is an entry level position and don't be concern with any required number of years of experience
