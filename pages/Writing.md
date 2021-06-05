@@ -60,7 +60,8 @@
 		- Name the file using convention `001-01-section-title`, where `001` is article number and `01` is section number.
 		- Save file under `Autoresponder` folder within the GitHub repo [curatormind](https://github.com/dennislwm/curatormind)
 	- Writing blog
-		- Collate breakdowns from `Autoresponder` folder
+		- Compile breakdowns from `Autoresponder` folder into a single Markdown file using VSC editor.
+		-
 - Execution
 	- Showing up
 		- Short form
