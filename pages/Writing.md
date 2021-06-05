@@ -64,7 +64,7 @@
 			- Onboarding members on Substack
 			- Presenting video on Vadootv, YouTube
 		- Long form
-			- Landing page on ??
+			- Landing page on fxgit.work
 			- Coding source on GitHub
 			- Writing blog on Netlify, Medium, Dev.to
 	- Updating status
