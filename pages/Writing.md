@@ -58,6 +58,7 @@
 		- Safe environment
 	- Twitter
 	- 250 words
+	- YouTube
 	- Blog (750 words)
 - Unshaped work
 	- Unshaped title
