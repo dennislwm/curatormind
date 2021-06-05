@@ -64,6 +64,7 @@
 		- Compile breakdowns from `Autoresponder` folder into a single Markdown file using VSC editor.
 		- Save file under folder within the GitHub repo [netlify-hugo-tldr](https://github.com/dennislwm/netlify-hugo-tldr)
 - Execution
+  collapsed:: true
 	- Showing up
 		- Short form
 			- Updating status on Twitter
