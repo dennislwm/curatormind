@@ -54,6 +54,7 @@
 			- Does it help reason through a nagging, unsolved problem you have?
 			- Does it persuade others to do something you believe is important?
 			- Do you obsess over the topic and want others to geek out over it too?
+- Execution
 - Unshaped work
 	- Unshaped title
 		-
