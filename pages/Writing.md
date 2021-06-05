@@ -64,7 +64,7 @@
 			- Onboarding members on Substack
 			- Presenting video on Vadootv, YouTube
 		- Long form
-			- Landing page on fxgit.work
+			- Landing page on fxgit.work, Brizy
 			- Coding source on GitHub
 			- Writing blog on Netlify, Medium, Dev.to
 	- Updating status
@@ -80,6 +80,7 @@
 	- Landing page
 		- Fxgit.work (1 Safest)
 		- LinkJoy (2 Safer)
+		- Brizy (2 Safer)
 	- Writing blog
 		- Netlify (1 Safest)
 		- Medium (2 Safer)
