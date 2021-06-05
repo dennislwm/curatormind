@@ -72,6 +72,7 @@
 	- Updating status
 		- Twitter (3 Safe)
 	- Scheduling in-video
+	  collapsed:: true
 		- Zoom (2 Safer)
 		- Discord (3 Safe)
 		- Whatsapp (3 Safe)
