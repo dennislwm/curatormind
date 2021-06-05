@@ -55,6 +55,7 @@
 			- Do you obsess over the topic and want others to geek out over it too?
 - Execution
 	- Showup
+		- Safe environment
 	- Twitter
 	- 250 words
 	- Blog (750 words)
