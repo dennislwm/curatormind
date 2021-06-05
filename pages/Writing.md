@@ -56,6 +56,7 @@
 			- Do you obsess over the topic and want others to geek out over it too?
 - Execution
 	- Showing up
+	  collapsed:: true
 		- Short form
 			- Updating status on Twitter
 		- Medium form
