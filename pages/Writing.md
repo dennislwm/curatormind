@@ -55,7 +55,9 @@
 			- Do you obsess over the topic and want others to geek out over it too?
 - Execution
 	- Showup
-	-
+	- Twitter
+	- Reddit
+	- Blog
 - Unshaped work
 	- Unshaped title
 		-
