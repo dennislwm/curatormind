@@ -54,7 +54,7 @@
 			- Does it persuade others to do something you believe is important?
 			- Do you obsess over the topic and want others to geek out over it too?
 - Embarking
-	- Writing blog
+	- Autoresponding micro
 		- Draft a section in a Markdown file using VSC editor.
 		- Name the file using convention `001-01-section-title`, where `001` is article number and `01` is section number.
 		- Save file under `Autoresponder` folder within the GitHub repo [curatormind](https://github.com/dennislwm/curatormind)
@@ -64,7 +64,6 @@
 		  collapsed:: true
 			- Updating status on Twitter
 		- Medium form
-		  collapsed:: true
 			- Microlanding page on LinkJoy
 			- Autoresponding breakdowns on SendFox, Sendinblue
 			- Scheduling in-video on MeetFox, Zoom, Discord, Whatsapp
