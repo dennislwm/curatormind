@@ -54,7 +54,8 @@
 			- Does it persuade others to do something you believe is important?
 			- Do you obsess over the topic and want others to geek out over it too?
 - Embarking
-	-
+	- Writing blog
+		-
 - Execution
 	- Showing up
 		- Short form
