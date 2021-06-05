@@ -1,5 +1,6 @@
 - How does this board work?
 	- Executive
+	  collapsed:: true
 		- Shaping and writing have independent cycles.
 		- Time constraint as appetite for both shaping and writing.
 		  collapsed:: true
@@ -53,6 +54,8 @@
 			- Does it help reason through a nagging, unsolved problem you have?
 			- Does it persuade others to do something you believe is important?
 			- Do you obsess over the topic and want others to geek out over it too?
+- Embarking
+	-
 - Execution
 	- Showing up
 		- Short form
