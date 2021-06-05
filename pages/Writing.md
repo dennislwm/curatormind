@@ -59,7 +59,7 @@
 	- Twitter
 	- 250 words
 	- YouTube
-	- Writing blog articles
+	- Blog articles
 		- Netlify
 		- Safest
 		- 750 words (3 pages)
