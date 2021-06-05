@@ -54,7 +54,8 @@
 			- Does it persuade others to do something you believe is important?
 			- Do you obsess over the topic and want others to geek out over it too?
 - Embarking
-	-
+	- Updating status
+		-
 	- Autoresponding breakdown
 		- Draft a section in a Markdown file using VSC editor.
 		- Name the file using convention `001-01-section-title`, where `001` is article number and `01` is section number.
