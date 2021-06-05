@@ -61,6 +61,7 @@
 	- YouTube
 	- Scheduling in-video
 		- Zoom (2 Safer)
+		- Discord (3 Safe)
 	- Onboarding members
 		- Substack (2 Safer)
 	- Coding source
@@ -68,7 +69,8 @@
 	- Blog articles
 		- Netlify (1 Safest)
 		- Medium (2 Safer)
-		- 750 words (3 pages)
+		- Dev.to (3 Safe)
+		- 750 words or 3 pages
 - Unshaped work
 	- Unshaped title
 		-
