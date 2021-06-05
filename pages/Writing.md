@@ -71,6 +71,7 @@
 		  2. Your LinkedIn profile is not updated or consistent with your CV
 			- Edit your `Intro`
 				- Headline should be about what you're aspiring to be
+					-
 			- Create an `About` section
 				- Similar to your learners profile
 			- Add your `GitHub` link.
